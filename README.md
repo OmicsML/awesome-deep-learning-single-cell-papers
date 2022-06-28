@@ -43,10 +43,10 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 AAAI] **ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations** [[paper]]( https://aaai-2022.virtualchair.net/poster_aaai5060)
 1. [2022 Briefings in Bioinformatics] **Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network** [[paper]]( https://doi.org/10.1093/bib/bbac018)
 1. [2022 Bioinformatics] **scGAC: a graph attentional architecture for clustering single-cell RNA-seq data** [[paper]]( https://doi.org/10.1093/bioinformatics/btac099)
-1. [2019 Nature Machine Intelligence] **Clustering single-cell RNA-seq data with a model-based deep learning approach** [[paper]]( https://www.nature.com/articles/s42256-019-0037-0)
+1. [2022 Nature Computational Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]]( https://www.nature.com/articles/s43588-022-00266-5)
 1. [2021 Nature Communications] **Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data** [[paper]]( https://www.nature.com/articles/s41467-021-22008-3)
 1. [2020 NAR Genomics and Bioinformatics] **Deep soft K-means clustering with self-training for single-cell RNA sequence data** [[paper]]( https://doi.org/10.1093/nargab/lqaa039)
-1. [2022 Nature Computational Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]]( https://www.nature.com/articles/s43588-022-00266-5)
+1. [2019 Nature Machine Intelligence] **Clustering single-cell RNA-seq data with a model-based deep learning approach** [[paper]]( https://www.nature.com/articles/s42256-019-0037-0)
 
 
 ## Cell Trajectory 
