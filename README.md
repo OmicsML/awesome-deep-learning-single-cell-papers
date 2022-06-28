@@ -38,8 +38,8 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Cell Type Annotation 
 
 
-## Clustering
-
+## Cell Clustering
+1. [2022 Nature Communicational Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]](https://www.nature.com/articles/s43588-022-00266-5)
 
 ## Cell Trajectory 
 
