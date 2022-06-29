@@ -45,7 +45,11 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2016 Computational Biology]**Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005177) [[code]](https://github.com/vanvalenlab/deepcell-tf) (Deepcell)
 
 ## Cell Type Deconvolution
-
+1. [2022 Nature Biotechnology] **Spatially informed cell-type deconvolution for spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-022-01273-7#Sec2)
+1. [2022 Nature Communications] **Advances in mixed cell deconvolution enable quantification of cell types in spatial transcriptomic data** [[paper]](https://www.nature.com/articles/s41467-022-28020-5#Sec2)
+1. [2021 Briefings in Bioinformatics] **DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence** [[paper]](https://doi.org/10.1093/bib/bbaa414)
+1. [2021 Genome Research] **Likelihood-based deconvolution of bulk gene expression data using single-cell references** [[paper]](https://www.genome.org/cgi/doi/10.1101/gr.272344.120.)
+1. [2021 Nucleic Acids Research] **SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes** [[paper]](https://doi.org/10.1093/nar/gkab043)
 
 ## Cell Type Annotation 
 
