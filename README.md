@@ -34,7 +34,15 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Cell Segmentation
-
+1. [2021 Biorxiv] **Scellseg: a style-aware cell instance segmentation tool with pre-training and
+contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.12.19.473392v1) [[code]](https://github.com/cellimnet/scellseg-publish)
+1. [2021 Nature Biotechnology] **Cell segmentation in imaging-based spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-021-01044-w) [[code]](https://github.com/kharchenkolab/Baysor)(Baysor)
+1. [2021 Nature Biotechnology] **Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning** [[paper]](https://www.nature.com/articles/s41587-021-01094-0) [[code]](https://github.com/vanvalenlab/intro-to-deepcell)(Memser)
+1. [2021 Nature Methods] **Cellpose: a generalist algorithm for cellular segmentation** [[paper]](https://www.nature.com/articles/s41592-020-01018-x) [[code]](https://www.github.com/mouseland/cellpose)(Cellpose)
+1. [2021 Molecular Systems Biology]**Joint cell segmentation and cell type annotation for spatial transcriptomics** [[paper]](https://pubmed.ncbi.nlm.nih.gov/34057817/) [[code]](https://github.com/wollmanlab/JSTA) (JSTA)
+1. [2020 Nature Communications]**A convolutional neural network segments yeast microscopy images with high accuracy** [[paper]](https://www.nature.com/articles/s41467-020-19557-4) [[code]](http://github.com/lpbsscientist/YeaZ-GUI)
+1. [2020 Medical Image Analysis] **DeepDistance: A multi-task deep regression model for cell detection in inverted microscopy images** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300840?via%3Dihub) (DeepDistance)
+1. [2016 Computational Biology]**Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005177) [[code]](https://github.com/vanvalenlab/deepcell-tf) (Deepcell)
 
 ## Cell Type Deconvolution
 
