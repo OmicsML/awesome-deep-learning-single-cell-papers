@@ -20,6 +20,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Spatial Domain
+1. [2022 Genome Biology] **Statistical and machine learning methods for spatially resolved transcriptomics data analysis** [[Review paper]](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02653-7.pdf)
 1. [2022 Nature Communications] **Deciphering spatial domains from spatially resolved transcriptomics with adaptive graph attention auto-encoder** [[paper]](https://www.nature.com/articles/s41467-022-29439-6)
 1. [2022 Nature Computational  Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]](https://www.nature.com/articles/s43588-022-00266-5)
 1. [2022 Frontiers in Genetics] **Analysis and Visualization of Spatial Transcriptomic Data** [[paper]](https://arxiv.org/pdf/2110.07787.pdf)
