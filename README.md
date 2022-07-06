@@ -67,7 +67,6 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2021 Nucleic Acids Research] **SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes** [[paper]](https://doi.org/10.1093/nar/gkab043)
 
 ## Cell Type Annotation 
-1. [2017 Nature Communications] **Reconstructing cell cycle and disease progression using deep learning** [[paper]](https://www.nature.com/articles/s41467-017-00623-3)
 1.
 
 ## Cell Clustering
@@ -82,7 +81,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 
 
 ## Cell Trajectory 
-
+1. [2017 Nature Communications] **Reconstructing cell cycle and disease progression using deep learning** [[paper]](https://www.nature.com/articles/s41467-017-00623-3)
 
 ## Disease Prediction
 1. [2018 IJCAI] **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification** [[paper]](https://www.ijcai.org/Proceedings/2018/490)
