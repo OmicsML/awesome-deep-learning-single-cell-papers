@@ -11,13 +11,20 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Joint Embedding
-
+1. [2022 Genome Biology] **scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02706-x)
 
 ## Multimodal Integration
 
 
 ## Imputation
-
+1. [2018 Nature Communications] **An accurate and robust imputation method scImpute for single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s41467-018-03405-7)
+1. [2019 Genome Biology] **DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1837-6)
+1. [2018 Cell] **Recovering Gene Interactions from Single-Cell Data Using Data Diffusion** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(18)30724-4)
+1. [2018 Genome Biology] **VIPER: variability-preserving imputation for accurate gene expression recovery in single-cell RNA sequencing studies** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1575-1)
+1. [2021 PLOS Computational Biology] **G2S3: A gene graph-based imputation method for single-cell RNA sequencing data** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009029)
+1. [2021 Nature Communications] **scGNN is a novel graph neural network framework for single-cell RNA-Seq analyses** [[paper]](https://www.nature.com/articles/s41467-021-22197-x#Sec23)
+1. [2021 iScience] **Imputing single-cell RNA-seq data by combining graph convolution and autoencoder neural networks** [[paper]](https://www.cell.com/iscience/fulltext/S2589-0042(21)00361-8)
+1. [2022 PLOS ONE] **Single-cell specific and interpretable machine learning models for sparse scChIP-seq data imputation** [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270043)
 
 ## Spatial Domain
 1. [2022 Genome Biology] **Statistical and machine learning methods for spatially resolved transcriptomics data analysis** [[Review paper]](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02653-7.pdf)
@@ -31,7 +38,13 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2018 Nature Biotechnology] **Identification of Spatially Associated Subpopulations by Combining scRNAseq and Sequential Fluorescence In Situ Hybridization Data** [[paper]](https://www.nature.com/articles/nbt.4260)
 1. [2008 Journal of Statistical Mechanics] **Fast unfolding of community hierarchies in large networks** [[paper]](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008)
 
-
+## Reference Embedding / Transfer Learning
+1. [2019 Nature Methods] **Data denoising with transfer learning in single-cell transcriptomics** [[paper]](https://www.nature.com/articles/s41592-019-0537-1)
+1. [2018 Nature Methods] **Deep generative modeling for single-cell transcriptomics** [[paper]](https://www.nature.com/articles/s41592-018-0229-2)
+1. [2020 Bioinformatics] **Conditional out-of-distribution generation for unpaired data using transfer VAE** [[paper]](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i610/6055927?guestAccessKey=71253caa-1779-40e8-8597-c217db539fb5&login=false)
+1. [2021 Nature Biotechnology] **Mapping single-cell data to reference atlases by transfer learning** [[paper]](https://www.nature.com/articles/s41587-021-01001-7)
+1. [2021 Molecular Systems Biology] **Probabilistic harmonization and annotation of single-cell transcriptomics data with deep generative models** [[paper]](https://www.embopress.org/doi/full/10.15252/msb.20209620)
+1. [2022 bioRxiv Preprint] **Biologically informed deep learning to infer gene program activity in single cells** [[preprint]](https://www.biorxiv.org/content/10.1101/2022.02.05.479217v2)
 
 ## Cell Segmentation
 1. [2021 Biorxiv] **Scellseg: a style-aware cell instance segmentation tool with pre-training and
@@ -54,7 +67,8 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2021 Nucleic Acids Research] **SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes** [[paper]](https://doi.org/10.1093/nar/gkab043)
 
 ## Cell Type Annotation 
-
+1. [2017 Nature Communications] **Reconstructing cell cycle and disease progression using deep learning** [[paper]](https://www.nature.com/articles/s41467-017-00623-3)
+1.
 
 ## Cell Clustering
 1. [2022 Bioinformatics] **GNN-based embedding for clustering scRNA-seq data** [[paper]](https://doi.org/10.1093/bioinformatics/btab787)
@@ -68,5 +82,15 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 
 
 ## Cell Trajectory 
+
+
+## Disease Prediction
+1. [2018 IJCAI] **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification** [[paper]](https://www.ijcai.org/Proceedings/2018/490)
+1. [2021 NPJ Digital Medicine] **DeePaN - A deep patient graph convolutional network integratingclinico-genomic evidence to stratify lung cancers benefiting from immunotherapy** [[paper]](https://www.nature.com/articles/s41746-021-00381-z)
+1. [2021 IEEE] **Disease Prediction via Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/document/9122573)
+1. [2022 Biocumputing] **CloudPred: Predicting Patient Phenotypes From Single-cell RNA-seq** [[paper]](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0031)
+1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
+
+
 
 
