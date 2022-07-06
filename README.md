@@ -33,6 +33,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Frontiers in Genetics] **Analysis and Visualization of Spatial Transcriptomic Data** [[paper]](https://arxiv.org/pdf/2110.07787.pdf)
 1. [2021 Nature Methods] **SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network** [[paper]](https://www.nature.com/articles/s41592-021-01255-8)
 1. [2021 Nature Biotechnology] **Spatial transcriptomics at subspot resolution with BayesSpace** [[paper]](https://www.nature.com/articles/s41587-021-00935-2)
+1. [2021 Biorxiv] **Unsupervised Spatially Embedded Deep Representation of Spatial Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.15.448542v2)
 1. [2020 Biorxiv] **stLearn: integrating spatial location, tissue morphology and gene expression to find cell types, cell-cell interactions and spatial trajectories within undissociated tissues** [[paper]](https://www.biorxiv.org/content/10.1101/2020.05.31.125658v1)
 1. [2018 Nature Methods] **SpatialDE: Identification of Spatially Variable Genes** [[paper]](https://www.nature.com/articles/nmeth.4636)
 1. [2018 Nature Biotechnology] **Identification of Spatially Associated Subpopulations by Combining scRNAseq and Sequential Fluorescence In Situ Hybridization Data** [[paper]](https://www.nature.com/articles/nbt.4260)
