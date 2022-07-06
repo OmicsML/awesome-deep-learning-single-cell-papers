@@ -29,10 +29,12 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Spatial Domain
 1. [2022 Genome Biology] **Statistical and machine learning methods for spatially resolved transcriptomics data analysis** [[Review paper]](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02653-7.pdf)
 1. [2022 Nature Communications] **Deciphering spatial domains from spatially resolved transcriptomics with adaptive graph attention auto-encoder** [[paper]](https://www.nature.com/articles/s41467-022-29439-6)
-1. [2022 Nature Computational  Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]](https://www.nature.com/articles/s43588-022-00266-5)
+1. [2022 Nature Computational Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]](https://www.nature.com/articles/s43588-022-00266-5)
 1. [2022 Frontiers in Genetics] **Analysis and Visualization of Spatial Transcriptomic Data** [[paper]](https://arxiv.org/pdf/2110.07787.pdf)
 1. [2021 Nature Methods] **SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network** [[paper]](https://www.nature.com/articles/s41592-021-01255-8)
 1. [2021 Nature Biotechnology] **Spatial transcriptomics at subspot resolution with BayesSpace** [[paper]](https://www.nature.com/articles/s41587-021-00935-2)
+1. [2021 Biorxiv] **Unsupervised Spatially Embedded Deep Representation of Spatial Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.15.448542v2)
+1. [2021 Biorxiv] **Define and visualize pathological architectures of human tissues from spatially resolved transcriptomics using deep learning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.07.08.451210v2)
 1. [2020 Biorxiv] **stLearn: integrating spatial location, tissue morphology and gene expression to find cell types, cell-cell interactions and spatial trajectories within undissociated tissues** [[paper]](https://www.biorxiv.org/content/10.1101/2020.05.31.125658v1)
 1. [2018 Nature Methods] **SpatialDE: Identification of Spatially Variable Genes** [[paper]](https://www.nature.com/articles/nmeth.4636)
 1. [2018 Nature Biotechnology] **Identification of Spatially Associated Subpopulations by Combining scRNAseq and Sequential Fluorescence In Situ Hybridization Data** [[paper]](https://www.nature.com/articles/nbt.4260)
@@ -65,6 +67,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2021 Genome Research] **Likelihood-based deconvolution of bulk gene expression data using single-cell references** [[paper]](https://www.genome.org/cgi/doi/10.1101/gr.272344.120.)
 1. [2021 Genome Biology] **SpatialDWLS: accurate deconvolution of spatial transcriptomic data** [[paper]](https://doi.org/10.1186/s13059-021-02362-7)
 1. [2021 Nucleic Acids Research] **SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes** [[paper]](https://doi.org/10.1093/nar/gkab043)
+1. [2021 Nature Biotechnology] **Robust decomposition of cell type mixtures in spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-021-00830-w)
 
 ## Cell Type Annotation 
 1.
