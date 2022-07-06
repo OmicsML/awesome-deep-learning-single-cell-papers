@@ -86,7 +86,6 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 ## Disease Prediction
 1. [2018 IJCAI] **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification** [[paper]](https://www.ijcai.org/Proceedings/2018/490)
 1. [2021 NPJ Digital Medicine] **DeePaN - A deep patient graph convolutional network integratingclinico-genomic evidence to stratify lung cancers benefiting from immunotherapy** [[paper]](https://www.nature.com/articles/s41746-021-00381-z)
-1. [2021 IEEE] **Disease Prediction via Graph Neural Networks** [[paper]](https://ieeexplore.ieee.org/document/9122573)
 1. [2022 Biocumputing] **CloudPred: Predicting Patient Phenotypes From Single-cell RNA-seq** [[paper]](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0031)
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
