@@ -72,7 +72,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2021 Nucleic Acids Research] **SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes** [[paper]](https://doi.org/10.1093/nar/gkab043)
 1. [2021 Nature Biotechnology] **Robust decomposition of cell type mixtures in spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-021-00830-w)
 1. [2019 Nature Communications] **Accurate estimation of cell-type composition from gene expression data** [[paper]](https://doi.org/10.1038/s41467-019-10802-z)
-1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution (NMFReg)** [[paper]](https://doi.org/10.1126/science.aaw1219)
+1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution** [[paper]](https://doi.org/10.1126/science.aaw1219)
 
 ## Cell Type Annotation 
 1.
