@@ -4,6 +4,10 @@ This repository keeps track of the latest papers on the single cell analysis wit
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
+## Single Cell Atlas
+1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
+2. [2022 bioRxiv] **A unified analysis of atlas single cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503038v1.full.pdf)
+
 
 
 ## Imputation
