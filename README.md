@@ -4,16 +4,6 @@ This repository keeps track of the latest papers on the single cell analysis wit
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
-## Modality Prediction
-
-
-## Modality Matching
-
-
-## Joint Embedding
-1. [2022 Genome Biology] **scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02706-x)
-
-## Multimodal Integration
 
 
 ## Imputation
@@ -99,5 +89,15 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
 
+## Modality Prediction
+
+
+## Modality Matching
+
+
+## Joint Embedding
+1. [2022 Genome Biology] **scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02706-x)
+
+## Multimodal Integration
 
 
