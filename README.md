@@ -70,7 +70,23 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution** [[paper]](https://doi.org/10.1126/science.aaw1219)
 
 ## Cell Type Annotation 
-1.
+1. [2022 Brief Bioinform] **scIAE: an integrative autoencoder-based ensemble classification framework for single-cell RNA-seq data** [[paper]](https://doi.org/10.1093/bib/bbab508)
+1. [2022 Nature Communications] **scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics** [[paper]](https://doi.org/10.1038/s41467-021-24172-y)
+1. [2022 Science] **Cross-tissue immune cell analysis reveals tissue-specific features in humans** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/#S9)
+1. [2022 Bioinformatics] **CellMeSH: probabilistic cell-type identification using indexed literature** [[paper]](https://doi.org/10.1093/bioinformatics/btab834)
+1. [2021 Nucleic Acids Research] **scDeepSort: a pre-trained cell-type annotation method for single-cell transcriptomics using deep learning with a weighted graph neural network** [[paper]](https://doi.org/10.1093/nar/gkab775)
+1. [2021 BMC Bioinformatics] **Single-cell classification using graph convolutional networks** [[paper]](https://doi.org/10.1186/s12859-021-04278-2)
+1. [2021 Genome Research] **Semisupervised adversarial neural networks for single-cell classification** [[paper]](https://genome.cshlp.org/content/31/10/1781)
+1. [2020 BMC Bioinformatics] **EnClaSC: a novel ensemble approach for accurate and robust cell-type classification of single-cell transcriptomes** [[paper]](https://doi.org/10.1186/s12859-020-03679-z)
+1. [2020 Bioinformatics] **ACTINN: automated identification of cell types in single cell RNA sequencing** [[paper]](https://doi.org/10.1093/bioinformatics/btz592)
+1. [2020 Nature Communications] **SciBet as a portable and fast single cell type identifier** [[paper]](https://doi.org/10.1038/s41467-020-15523-2)
+1. [2019 Nucleic Acids Research] **SuperCT: a supervised-learning framework for enhanced characterization of single-cell transcriptomic profiles** [[paper]](https://doi.org/10.1093/nar/gkz116)
+1. [2019 Nucleic Acids Research] **CHETAH: a selective, hierarchical cell type identification method for single-cell RNA sequencing** [[paper]]( https://doi.org/10.1093/nar/gkz543)
+1. [2019 Bioinformatics] **scMatch: a single-cell gene expression profile annotation tool using reference datasets** [[paper]](https://doi.org/10.1093/bioinformatics/btz292)
+1. [2019 Cell Systems] **SingleCellNet: A Computational Tool to Classify Single Cell RNA-Seq Data Across Platforms and Across Species** [[paper]](https://doi.org/10.1016/j.cels.2019.06.004)
+1. [2019 Genome Biology] **SingleCellNet: cPred: accurate supervised method for cell-type classification from single-cell RNA-seq data** [[paper]]https://doi.org/10.1186/s13059-019-1862-5)
+
+
 
 ## Cell Clustering
 1. [2022 Bioinformatics] **GNN-based embedding for clustering scRNA-seq data** [[paper]](https://doi.org/10.1093/bioinformatics/btab787)
