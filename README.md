@@ -98,9 +98,10 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2020 NAR Genomics and Bioinformatics] **Deep soft K-means clustering with self-training for single-cell RNA sequence data** [[paper]]( https://doi.org/10.1093/nargab/lqaa039)
 1. [2019 Nature Machine Intelligence] **Clustering single-cell RNA-seq data with a model-based deep learning approach** [[paper]]( https://www.nature.com/articles/s42256-019-0037-0)
 
-
+<!---
 ## Cell Trajectory 
 1. [2017 Nature Communications] **Reconstructing cell cycle and disease progression using deep learning** [[paper]](https://www.nature.com/articles/s41467-017-00623-3)
+--->
 
 ## Disease Prediction
 1. [2018 IJCAI] **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification** [[paper]](https://www.ijcai.org/Proceedings/2018/490)
