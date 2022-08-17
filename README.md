@@ -109,16 +109,21 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2022 Biocumputing] **CloudPred: Predicting Patient Phenotypes From Single-cell RNA-seq** [[paper]](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0031)
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
-
-## Modality Prediction
-
-
-## Modality Matching
-
-
-## Joint Embedding
-1. [2022 Genome Biology] **scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02706-x)
-
 ## Multimodal Integration
-
-
+1. [2018 ICML] **MAGAN: Aligning biological manifolds** [[paper]](https://proceedings.mlr.press/v80/amodio18a.html)
+1. [2019 PLoS computational biology] **Building gene regulatory networks from scATAC-seq and scRNA-seq using linked self organizing maps** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006555)
+1. [2020 Bioinformatics] **SCIM: universal single-cell matching with unpaired feature sets** [[paper]](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i919/6055906)
+1. [2021 Nature communications] **Multi-domain translation between single-cell imaging and sequencing data using autoencoders** [[paper]](https://www.nature.com/articles/s41467-020-20249-2)
+1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
+1. [2021 Genome biology] **Cobolt: integrative analysis of multimodal single-cell sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02556-z)
+1. [2021 Cell reports methods] **A mixture-of-experts deep generative model for integrated analysis of single-cell multiomics data** [[paper]](https://www.sciencedirect.com/science/article/pii/S2667237521001235)
+1. [2021 Briefings in Bioinformatics] **Deep-joint-learning analysis model of single cell transcriptome and open chromatin accessibility data** [[paper]](https://academic.oup.com/bib/article/22/4/bbaa287/5985290)
+1. [2021 Bioinformatics] **Deep cross-omics cycle attention model for joint analysis of single-cell multi-omics data** [[paper]](https://academic.oup.com/bioinformatics/article/37/22/4091/6283577)
+1. [2022 Nature Biotechnology] **scJoint integrates atlas-scale single-cell RNA-seq and ATAC-seq data with transfer learning** [[paper]](https://www.nature.com/articles/s41587-021-01161-6)
+1. [2022 Bioinformatics] **SMILE: mutual information learning for integration of single-cell omics data** [[paper]](https://academic.oup.com/bioinformatics/article/38/2/476/6384571)
+1. [2022 SIGKDD] **Graph Neural Networks for Multimodal Single-Cell Data Integration** [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539213)
+1. [2022 Genome biology] **scDART: integrating unmatched scRNA-seq and scATAC-seq data and learning cross-modality relationship simultaneously** [[paper]](https://link.springer.com/article/10.1186/s13059-022-02706-x)
+1. [2019 Biorxiv] **A Joint Model of RNA Expression and Surface Protein Abundance in Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/791947v1.abstract)
+1. [2021 Biorxiv] **DeepMAPS: Single-cell biological network inference using heterogeneous graph transformer** [[paper]](https://www.biorxiv.org/content/10.1101/2021.10.31.466658v2)
+1. [2022 Biorxiv] **Adaptative Machine Translation between paired Single-Cell Multi-Omics Data** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.27.428400v2)
+1. [2022 Biorxiv] **Multigrate: single-cell multi-omic data integration** [[paper]](https://www.biorxiv.org/content/10.1101/2022.03.16.484643v1.abstract)
