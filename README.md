@@ -8,6 +8,9 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
 2. [2022 bioRxiv] **A unified analysis of atlas single cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503038v1.full.pdf)
 
+## Gene Regulatory Network
+1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
+2. [2022 Biorxiv] **scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference** [[paper]](hhttps://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)
 
 
 ## Imputation
