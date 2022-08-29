@@ -11,6 +11,13 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Gene Regulatory Network
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
 2. [2022 Biorxiv] **scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)
+3. [2022 Bioinformatics] **High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0** [[paper]](https://academic.oup.com/bioinformatics/article/38/9/2519/6533443)
+4. [2022 Briefings in Bioinformatic] **SIGNET: single-cell RNA-seq-based gene regulatory network prediction using multiple-layer perceptron bagging** [[paper]](https://academic.oup.com/bib/article/23/1/bbab547/6484519)
+5. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
+6. [2019 Genome Biology] **Single-cell transcriptomics unveils gene regulatory network plasticity** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1713-4)
+7. [2017 Cell Syst] **Gene Regulatory Network Inference from Single-Cell Data Using Multivariate Information Measures** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624513/)
+
+
 
 
 ## Imputation
