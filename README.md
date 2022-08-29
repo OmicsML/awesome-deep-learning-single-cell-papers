@@ -10,12 +10,12 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Gene Regulatory Network
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
-2. [2022 Biorxiv] **scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)
-3. [2022 Bioinformatics] **High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0** [[paper]](https://academic.oup.com/bioinformatics/article/38/9/2519/6533443)
-4. [2022 Briefings in Bioinformatic] **SIGNET: single-cell RNA-seq-based gene regulatory network prediction using multiple-layer perceptron bagging** [[paper]](https://academic.oup.com/bib/article/23/1/bbab547/6484519)
-5. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
-6. [2019 Genome Biology] **Single-cell transcriptomics unveils gene regulatory network plasticity** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1713-4)
-7. [2017 Cell Syst] **Gene Regulatory Network Inference from Single-Cell Data Using Multivariate Information Measures** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624513/)
+1. [2022 Biorxiv] **scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)
+1. [2022 Bioinformatics] **High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0** [[paper]](https://academic.oup.com/bioinformatics/article/38/9/2519/6533443)
+1. [2022 Briefings in Bioinformatic] **SIGNET: single-cell RNA-seq-based gene regulatory network prediction using multiple-layer perceptron bagging** [[paper]](https://academic.oup.com/bib/article/23/1/bbab547/6484519)
+1. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
+1. [2019 Genome Biology] **Single-cell transcriptomics unveils gene regulatory network plasticity** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1713-4)
+1. [2017 Cell Syst] **Gene Regulatory Network Inference from Single-Cell Data Using Multivariate Information Measures** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624513/)
 
 
 
@@ -120,6 +120,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
 ## Multimodal Integration
+1. [2022 Genome Biology] **A benchmark study of deep learning-based multi-omics data fusion methods for cancer** [[Survey]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2)
 1. [2018 ICML] **MAGAN: Aligning biological manifolds** [[paper]](https://proceedings.mlr.press/v80/amodio18a.html)
 1. [2019 PLoS computational biology] **Building gene regulatory networks from scATAC-seq and scRNA-seq using linked self organizing maps** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006555)
 1. [2020 Bioinformatics] **SCIM: universal single-cell matching with unpaired feature sets** [[paper]](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i919/6055906)
