@@ -4,6 +4,25 @@ This repository keeps track of the latest papers on the single cell analysis wit
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
+
+
+- [Single Cell RNA Tools](#single-cell-rna-tools)
+- [Single Cell Atlas](#single-cell-atlas)
+- [Cell-Cell Communication Events](#cell-cell-communication-events)
+- [Gene Regulatory Network](#gene-regulatory-network)
+- [Imputation](#imputation)
+- [Spatial Domain](#spatial-domain)
+- [Reference Embedding or Transfer Learning](#reference-embedding-or-transfer-learning)
+- [Cell Segmentation](#cell-segmentation)
+- [Cell Type Deconvolution](#cell-type-deconvolution)
+- [Cell Type Annotation](#cell-type-annotation)
+- [Cell Clustering](#cell-clustering)
+- [Disease Prediction](#disease-prediction)
+- [Multimodal Integration](#multimodal-integration)
+
+
+
+
 ## Single Cell RNA Tools 
 [[Tool Summary]](https://www.scrna-tools.org/tools)
 
@@ -14,7 +33,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
 
 
-## Cell–Cell Communication Events
+## Cell-Cell Communication Events
 1. [2022 bioRxiv] **Decoding functional cell–cell communication events by multi-view graph
 learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
 1. [2021 Bioinformatics] **Identifying signaling genes in spatial single-cell expression data** [[paper]](https://pubmed.ncbi.nlm.nih.gov/32886099/)
@@ -29,8 +48,6 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 1. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
 1. [2019 Genome Biology] **Single-cell transcriptomics unveils gene regulatory network plasticity** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1713-4)
 1. [2017 Cell Syst] **Gene Regulatory Network Inference from Single-Cell Data Using Multivariate Information Measures** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624513/)
-
-
 
 
 ## Imputation
@@ -60,7 +77,7 @@ and visualization of spatial expression data** [[Tool]](https://genomebiology.bi
 1. [2008 Journal of Statistical Mechanics] **Fast unfolding of community hierarchies in large networks** [[paper]](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008)
 
 
-## Reference Embedding / Transfer Learning
+## Reference Embedding or Transfer Learning
 1. [2019 Nature Methods] **Data denoising with transfer learning in single-cell transcriptomics** [[paper]](https://www.nature.com/articles/s41592-019-0537-1)
 1. [2018 Nature Methods] **Deep generative modeling for single-cell transcriptomics** [[paper]](https://www.nature.com/articles/s41592-018-0229-2)
 1. [2020 Bioinformatics] **Conditional out-of-distribution generation for unpaired data using transfer VAE** [[paper]](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i610/6055927?guestAccessKey=71253caa-1779-40e8-8597-c217db539fb5&login=false)
