@@ -14,6 +14,12 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
 
 
+## Cell–Cell Communication Events
+1. [2022 bioRxiv] **Decoding functional cell–cell communication events by multi-view graph
+learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
+1. [2021 Bioinformatics] **Identifying signaling genes in spatial single-cell expression data** [[paper]](https://pubmed.ncbi.nlm.nih.gov/32886099/)
+1. [2021 bioRxiv] **Learning cell communication from spatial graphs of cells** [[paper]](https://www.biorxiv.org/content/10.1101/2021.07.11.451750v1.full)
+1. [2020 Nature Methods] **NicheNet: modeling intercellular communication by linking ligands to target genes** [[paper]](https://www.nature.com/articles/s41592-019-0667-5)
 
 ## Gene Regulatory Network
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
