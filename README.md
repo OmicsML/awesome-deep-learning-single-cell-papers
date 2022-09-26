@@ -39,6 +39,8 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 1. [2021 Bioinformatics] **Identifying signaling genes in spatial single-cell expression data** [[paper]](https://pubmed.ncbi.nlm.nih.gov/32886099/)
 1. [2021 bioRxiv] **Learning cell communication from spatial graphs of cells** [[paper]](https://www.biorxiv.org/content/10.1101/2021.07.11.451750v1.full)
 1. [2020 Nature Methods] **NicheNet: modeling intercellular communication by linking ligands to target genes** [[paper]](https://www.nature.com/articles/s41592-019-0667-5)
+1. [2018 Nature] **Single-cell reconstruction of the early maternal–fetal interface in humans** [[paper]](https://www.nature.com/articles/s41586-018-0698-6)
+
 
 ## Gene Regulatory Network
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
