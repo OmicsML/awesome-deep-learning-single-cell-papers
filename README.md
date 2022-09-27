@@ -7,6 +7,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 - [Single Cell RNA Tools](#single-cell-rna-tools)
+- [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
 - [Cell-Cell Communication Events](#cell-cell-communication-events)
 - [Gene Regulatory Network](#gene-regulatory-network)
@@ -25,6 +26,9 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Single Cell RNA Tools 
 [[Tool Summary]](https://www.scrna-tools.org/tools)
+
+## Pretrained Model
+1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
 
 ## Single Cell Atlas
 1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
