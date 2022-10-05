@@ -7,6 +7,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 - [Single Cell RNA Tools](#single-cell-rna-tools)
+- [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
 - [Cell-Cell Communication Events](#cell-cell-communication-events)
@@ -26,6 +27,10 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Single Cell RNA Tools 
 [[Tool Summary]](https://www.scrna-tools.org/tools)
+
+## Representation Learning
+1. [2023 ICLR under review] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
+
 
 ## Pretrained Model
 1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
