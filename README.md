@@ -34,6 +34,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Pretrained Model
 1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
+1. [2021 PNAS] **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** [[paper]](https://www.pnas.org/doi/10.1073/pnas.2016239118)
+
 
 ## Single Cell Atlas
 1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
