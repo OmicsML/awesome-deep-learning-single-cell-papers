@@ -7,6 +7,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 - [Single Cell RNA Tools](#single-cell-rna-tools)
+- [Benchmarking](#benchmarking)
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
@@ -27,6 +28,15 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Single Cell RNA Tools 
 [[Tool Summary]](https://www.scrna-tools.org/tools)
+
+
+## Benchmarking
+1. [2022 BioRxiv] **Benchmarking Automated Cell Type Annotation Tools for Single-cell ATAC-seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.10.05.511014v1)
+1. [2022 Briefings in Bioinformatics] **Benchmarking methods for detecting differential states between conditions from multi-subject single-cell RNA-seq data** [[paper]](https://academic.oup.com/bib/article/23/5/bbac286/6649780)
+1. [2021 Frontiers in Genetics] **Evaluating the Reproducibility of Single-Cell Gene Regulatory Network Inference Algorithms** [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2021.617282/full)
+1. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
+1. [2019 Nature Methods] **Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments** [[paper]](https://www.nature.com/articles/s41592-019-0425-8)
+
 
 ## Representation Learning
 1. [2023 ICLR under review] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
