@@ -52,6 +52,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 bioRxiv] **A unified analysis of atlas single cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503038v1.full.pdf)
 1. [2022 Nature Biotechnology] **Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis** [[paper]](https://www.nature.com/articles/s41587-021-01006-2)
 1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
+1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
+
 
 
 ## Cell-Cell Communication Events
