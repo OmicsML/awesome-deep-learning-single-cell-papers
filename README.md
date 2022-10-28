@@ -139,6 +139,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution** [[paper]](https://doi.org/10.1126/science.aaw1219)
 
 ## Cell Type Annotation 
+1. [2022 Nature Method] **Annotation of spatially resolved single-cell data with STELLAR** [[paper]](file:///Users/djiayuan/Downloads/s41592-022-01651-8.pdf) NOTE: annotated reference cell graph + query cell graph
 1. [2022 Brief Bioinform] **scIAE: an integrative autoencoder-based ensemble classification framework for single-cell RNA-seq data** [[paper]](https://doi.org/10.1093/bib/bbab508)
 1. [2022 Nature Communications] **scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics** [[paper]](https://doi.org/10.1038/s41467-021-24172-y)
 1. [2022 Science] **Cross-tissue immune cell analysis reveals tissue-specific features in humans** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/#S9)
@@ -153,7 +154,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2019 Nucleic Acids Research] **CHETAH: a selective, hierarchical cell type identification method for single-cell RNA sequencing** [[paper]]( https://doi.org/10.1093/nar/gkz543)
 1. [2019 Bioinformatics] **scMatch: a single-cell gene expression profile annotation tool using reference datasets** [[paper]](https://doi.org/10.1093/bioinformatics/btz292)
 1. [2019 Cell Systems] **SingleCellNet: A Computational Tool to Classify Single Cell RNA-Seq Data Across Platforms and Across Species** [[paper]](https://doi.org/10.1016/j.cels.2019.06.004)
-1. [2019 Genome Biology] **SingleCellNet: cPred: accurate supervised method for cell-type classification from single-cell RNA-seq data** [[paper]]https://doi.org/10.1186/s13059-019-1862-5)
+1. [2019 Genome Biology] **SingleCellNet: cPred: accurate supervised method for cell-type classification from single-cell RNA-seq data** [[paper]](https://doi.org/10.1186/s13059-019-1862-5)
 
 
 
