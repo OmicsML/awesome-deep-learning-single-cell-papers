@@ -139,7 +139,8 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution** [[paper]](https://doi.org/10.1126/science.aaw1219)
 
 ## Cell Type Annotation 
-1. [2022 Nature Method] **Annotation of spatially resolved single-cell data with STELLAR** [[paper]](file:///Users/djiayuan/Downloads/s41592-022-01651-8.pdf) NOTE: annotated reference cell graph + query cell graph
+1. [2022 Nature Method] **Annotation of spatially resolved single-cell data with STELLAR** [[paper]](https://www.nature.com/articles/s41592-022-01651-8) 
+NOTE: annotated reference cell graph + query cell graph
 1. [2022 Brief Bioinform] **scIAE: an integrative autoencoder-based ensemble classification framework for single-cell RNA-seq data** [[paper]](https://doi.org/10.1093/bib/bbab508)
 1. [2022 Nature Communications] **scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics** [[paper]](https://doi.org/10.1038/s41467-021-24172-y)
 1. [2022 Science] **Cross-tissue immune cell analysis reveals tissue-specific features in humans** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/#S9)
