@@ -65,8 +65,6 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 1. [2020 Nature Communications] **Predicting cell-to-cell communication networks using NATMI** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538930/pdf/41467_2020_Article_18873.pdf)
 1. [2018 Nature] **Single-cell reconstruction of the early maternal–fetal interface in humans** [[paper]](https://www.nature.com/articles/s41586-018-0698-6)
 
-Predicting cell-to-cell communication networks
-using NATMI
 
 ## Gene Regulatory Network
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
