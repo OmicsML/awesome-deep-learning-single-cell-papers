@@ -34,6 +34,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 BioRxiv] **Benchmarking Automated Cell Type Annotation Tools for Single-cell ATAC-seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.10.05.511014v1)
 1. [2022 Briefings in Bioinformatics] **Benchmarking methods for detecting differential states between conditions from multi-subject single-cell RNA-seq data** [[paper]](https://academic.oup.com/bib/article/23/5/bbac286/6649780)
 1. [2021 Frontiers in Genetics] **Evaluating the Reproducibility of Single-Cell Gene Regulatory Network Inference Algorithms** [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2021.617282/full)
+1. [2021 Nature Communications] **A benchmark study of simulation methods for single-cell RNA sequencing data** [[paper]](https://www.nature.com/articles/s41467-021-27130-w)
 1. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
 1. [2020 Genome Biology] **A benchmark of batch-effect correction methods for single-cell RNA sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
 1. [2019 Nature Methods] **Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments** [[paper]](https://www.nature.com/articles/s41592-019-0425-8)
