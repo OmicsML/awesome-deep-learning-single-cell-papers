@@ -11,6 +11,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
+- [Batch Effect Correction](#batch-effect-correction)
 - [Cell-Cell Communication Events](#cell-cell-communication-events)
 - [Gene Regulatory Network](#gene-regulatory-network)
 - [Imputation](#imputation)
@@ -55,6 +56,14 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Nature Biotechnology] **Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis** [[paper]](https://www.nature.com/articles/s41587-021-01006-2)
 1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
 1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
+
+## Batch Effect Correction
+1. [2020 Nature Biotechnology] **A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples** [[paper]](https://www.nature.com/articles/s41587-020-00748-9)
+1. [2019 Nature Methods, Harmony] **Fast, sensitive and accurate integration of single-cell data with Harmony** [[paper]](https://www.nature.com/articles/s41592-019-0619-0)
+1. [2018 Nature Biotechnology, CCA] **Integrating single-cell transcriptomic data across different conditions, technologies, and species** [[paper]](https://www.nature.com/articles/nbt.4096)
+1. [2018 Nature Biotechnology, Mutual Nearest Neighbors] **Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors** [[paper]](https://www.nature.com/articles/nbt.4091)
+1. [2018 Nature Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
+1. [2017 Nature Biotechnology] **Multiplexed droplet single-cell RNA-sequencing using natural genetic variation** [[paper]](https://www.nature.com/articles/nbt.4042)
 
 
 
