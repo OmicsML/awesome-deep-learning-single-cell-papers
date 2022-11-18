@@ -58,6 +58,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
 
 ## Batch Effect Correction
+1. [2020 Genomy Biology] **A benchmark of batch-effect correction methods for single-cell RNA sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
 1. [2020 Nature Biotechnology] **A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples** [[paper]](https://www.nature.com/articles/s41587-020-00748-9)
 1. [2019 Nature Methods, **Harmony**] **Fast, sensitive and accurate integration of single-cell data with Harmony** [[paper]](https://www.nature.com/articles/s41592-019-0619-0)
 1. [2018 Nature Biotechnology, **CCA**] **Integrating single-cell transcriptomic data across different conditions, technologies, and species** [[paper]](https://www.nature.com/articles/nbt.4096)
