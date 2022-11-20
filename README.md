@@ -43,6 +43,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Representation Learning
 1. [2023 ICLR under review] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
+1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
+
 
 
 ## Pretrained Model
