@@ -12,6 +12,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
 - [Batch Effect Correction](#batch-effect-correction)
+- [Tumor Microenvironment-TME](#tumor-microenvironment-tme)
 - [Cell-Cell Communication Events](#cell-cell-communication-events)
 - [Gene Regulatory Network](#gene-regulatory-network)
 - [Imputation](#imputation)
@@ -69,6 +70,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2018 Nature Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
 1. [2017 Nature Biotechnology] **Multiplexed droplet single-cell RNA-sequencing using natural genetic variation** [[paper]](https://www.nature.com/articles/nbt.4042)
 
+## Tumor Microenvironment-TME
+1. [2022 Nature Biomedical Engineering] **Graph deep learning for the characterization of tumour microenvironments from spatial protein profiles in tissue specimens** [[paper]](https://www.nature.com/articles/s41551-022-00951-w)
 
 
 ## Cell-Cell Communication Events
