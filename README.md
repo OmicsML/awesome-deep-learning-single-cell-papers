@@ -92,6 +92,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Cell-Cell Communication Events
+1. [2022 bioRxiv] **scTensor detects many-to-many cell–cell interactions from single cell RNA-sequencing data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519225v1)
 1. [2022 Nature Biotechnology] **Modeling intercellular communication in tissues using spatial graphs of cells** [[paper]](https://www.nature.com/articles/s41587-022-01467-z)
 1. [2022 bioRxiv] **Decoding functional cell–cell communication events by multi-view graph
 learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
