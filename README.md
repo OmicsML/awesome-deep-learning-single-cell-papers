@@ -8,6 +8,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 
+- [Single Cell Book](#single-cell-book)
 - [Single Cell RNA Tools](#single-cell-rna-tools)
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
@@ -28,6 +29,9 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Disease Prediction](#disease-prediction)
 - [Multimodal Integration](#multimodal-integration)
 
+
+## Single Cell Book
+1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html)
 
 
 
