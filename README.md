@@ -159,6 +159,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2016 Computational Biology]**Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005177) [[code]](https://github.com/vanvalenlab/deepcell-tf) (Deepcell)
 
 ## Cell Type Deconvolution
+1. [2022 Biorxiv] **Accurate cell type deconvolution in spatial transcriptomics using a batch effect-free strategy** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.520612v1)
 1. [2022 Nature Biotechnology] **Spatially informed cell-type deconvolution for spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-022-01273-7#Sec2)
 1. [2022 Nature Cancer] **Cell type and gene expression deconvolution with BayesPrism enables Bayesian integrative analysis across bulk and single-cell RNA sequencing in oncology** [[paper]](https://doi.org/10.1038/s43018-022-00356-3)
 1. [2022 Nature Communications] **Advances in mixed cell deconvolution enable quantification of cell types in spatial transcriptomic data** [[paper]](https://www.nature.com/articles/s41467-022-28020-5#Sec2)
