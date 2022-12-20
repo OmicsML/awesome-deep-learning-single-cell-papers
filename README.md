@@ -194,6 +194,7 @@ NOTE: annotated reference cell graph + query cell graph
 
 
 ## Cell Clustering
+1. [2022 BMC Bioinformatics] **SC3s: efficient scaling of single cell consensus clustering to millions of cells** [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05085-z)
 1. [2022 Bioinformatics] **GNN-based embedding for clustering scRNA-seq data** [[paper]](https://doi.org/10.1093/bioinformatics/btab787)
 1. [2022 AAAI] **ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations** [[paper]]( https://aaai-2022.virtualchair.net/poster_aaai5060)
 1. [2022 Briefings in Bioinformatics] **Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network** [[paper]]( https://doi.org/10.1093/bib/bbac018)
