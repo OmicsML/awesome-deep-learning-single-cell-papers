@@ -62,15 +62,15 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Representation Learning
-1. [2023 ICLR under review] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
 1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
 
 
 
 ## Pretrained Model
 1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
+1. [2022 bioRxiv] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
 1. [2021 PNAS] **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** [[paper]](https://www.pnas.org/doi/10.1073/pnas.2016239118)
-
+1. [2021 Bioinformatics] **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** [[paper]](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
 
 ## Single Cell Atlas
 1. [[Cellxgene Datasets: 546 datasets by 2022]](https://cellxgene.cziscience.com/datasets)
