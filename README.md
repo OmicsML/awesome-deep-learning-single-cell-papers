@@ -12,6 +12,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Single Cell RNA Tools](#single-cell-rna-tools)
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
+- [Metric Design](#metric-design)
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
@@ -59,6 +60,9 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2020 Genome Biology] **A benchmark of batch-effect correction methods for single-cell RNA sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
 1. [2020 Nature Biotechnology] **A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples** [[paper]](https://www.nature.com/articles/s41587-020-00748-9)
 1. [2019 Nature Methods] **Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments** [[paper]](https://www.nature.com/articles/s41592-019-0425-8)
+
+## Metric Design
+1. [2019 Narure Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
 
 
 ## Representation Learning
