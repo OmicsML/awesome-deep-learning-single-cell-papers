@@ -8,7 +8,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 
-- [Single Cell Book](#single-cell-book)
+- [Book](#book)
+- [Course](#course)
 - [Single Cell RNA Tools](#single-cell-rna-tools)
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
@@ -31,8 +32,13 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Multimodal Integration](#multimodal-integration)
 
 
-## Single Cell Book
+## Book
 1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html)
+
+
+## Course
+1. [[CSCI 1850 Deep Learning in Genomics]](https://cs.brown.edu/courses/csci1850/index.html), Brown University
+1. [[Machine Learning in Genomics: Dissecting Human Disease Circuitry]](http://stellar.mit.edu/S/course/6/fa21/6.047/materials.html), MIT
 
 
 
