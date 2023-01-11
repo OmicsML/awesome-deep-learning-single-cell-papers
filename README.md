@@ -33,7 +33,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Book
-1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html)
+1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html), Fabian Theis's Lab
 
 
 ## Course
