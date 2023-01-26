@@ -34,7 +34,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Book
 1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html), Fabian Theis's Lab
-
+1. [[Basics of Single-Cell Analysis with Bioconductor]](http://bioconductor.org/books/3.15/OSCA.basic/index.html), Bioconductor software based on R
 
 ## Course
 1. [[CSCI 1850 Deep Learning in Genomics]](https://cs.brown.edu/courses/csci1850/index.html), Brown University
