@@ -216,6 +216,7 @@ NOTE: annotated reference cell graph + query cell graph
 
 
 ## Cell Clustering
+1. [2023 bioRxiv] **G3DC: a Gene-Graph-Guided selective Deep Clustering method for single cell RNA-seq data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.01.15.524109v1)
 1. [2022 BMC Bioinformatics] **SC3s: efficient scaling of single cell consensus clustering to millions of cells** [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05085-z)
 1. [2022 Bioinformatics] **GNN-based embedding for clustering scRNA-seq data** [[paper]](https://doi.org/10.1093/bioinformatics/btab787)
 1. [2022 AAAI] **ZINB-based Graph Embedding Autoencoder for Single-cell RNA-seq Interpretations** [[paper]]( https://aaai-2022.virtualchair.net/poster_aaai5060)
