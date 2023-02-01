@@ -52,7 +52,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [[UCSC Xena]](https://xena.ucsc.edu/)
 1. [[ASAP: Automated Single-cell Analysis Pipeline]](https://asap.epfl.ch/)
 1. [[GenePattern]](https://notebook.genepattern.org/)
-
+1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
 1. [2023 bioRxiv] **Benchmarking Algorithms for Gene Set Scoring of Single-cell ATAC-seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.01.14.524081v1)
