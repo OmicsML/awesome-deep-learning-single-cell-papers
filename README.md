@@ -245,6 +245,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2020 Bioinformatics] **SCIM: universal single-cell matching with unpaired feature sets** [[paper]](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i919/6055906)
 1. [2021 Nature communications] **Multi-domain translation between single-cell imaging and sequencing data using autoencoders** [[paper]](https://www.nature.com/articles/s41467-020-20249-2)
 1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
+1. [2021 PLoS Computational Biology] **Imputation of spatially-resolved transcriptomes by graph-regularized tensor completion** [[paper]](https://pubmed.ncbi.nlm.nih.gov/33826608/)
 1. [2021 Genome biology] **Cobolt: integrative analysis of multimodal single-cell sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02556-z)
 1. [2021 Cell reports methods] **A mixture-of-experts deep generative model for integrated analysis of single-cell multiomics data** [[paper]](https://www.sciencedirect.com/science/article/pii/S2667237521001235)
 1. [2021 Briefings in Bioinformatics] **Deep-joint-learning analysis model of single cell transcriptome and open chromatin accessibility data** [[paper]](https://academic.oup.com/bib/article/22/4/bbaa287/5985290)
