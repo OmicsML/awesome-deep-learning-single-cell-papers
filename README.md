@@ -225,7 +225,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 Nature Computational Science] **Cell clustering for spatial transcriptomics data with graph neural networks** [[paper]]( https://www.nature.com/articles/s43588-022-00266-5)
 1. [2021 Nature Communications] **Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data** [[paper]]( https://www.nature.com/articles/s41467-021-22008-3)
 1. [2020 NAR Genomics and Bioinformatics] **Deep soft K-means clustering with self-training for single-cell RNA sequence data** [[paper]]( https://doi.org/10.1093/nargab/lqaa039)
-1. [2020 Nature Communications] **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis** [[paper]](https://www.nature.com/articles/s41467-020-15851-3)
+1. [2020 Nature Communications] **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis** [[paper]](https://www.nature.com/articles/s41467-020-15851-3)[[website]](https://eleozzr.github.io/desc/)[[github]](https://github.com/eleozzr/desc)
 1. [2019 Nature Machine Intelligence] **Clustering single-cell RNA-seq data with a model-based deep learning approach** [[paper]]( https://www.nature.com/articles/s42256-019-0037-0)
 
 <!---
