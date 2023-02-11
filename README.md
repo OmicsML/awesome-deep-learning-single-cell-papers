@@ -90,6 +90,9 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Bioinformatics] **scPretrain: multi-task self-supervised learning for cell-type classification** [[paper]](https://academic.oup.com/bioinformatics/article/38/6/1607/6499287)
 1. [2021 PNAS] **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** [[paper]](https://www.pnas.org/doi/10.1073/pnas.2016239118)
 1. [2021 Bioinformatics] **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** [[paper]](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+1. [2021 Arxiv] **Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing** [[paper]]([https://academic.oup.com/bioinformatics/article/37/15/2112/6128680](https://arxiv.org/pdf/2007.15779.pdf))
+
+
 
 ## Single Cell Atlas
 1. [[Cellxgene Datasets: 546 datasets by 2022]](https://cellxgene.cziscience.com/datasets)
