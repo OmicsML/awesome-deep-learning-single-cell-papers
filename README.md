@@ -17,6 +17,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
+- [Drug Response](#drug-response)
 - [Batch Effect Correction](#batch-effect-correction)
 - [Tumor Microenvironment-TME](#tumor-microenvironment-tme)
 - [Cell-Cell Communication Events](#cell-cell-communication-events)
@@ -103,6 +104,11 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Nature Biotechnology] **Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis** [[paper]](https://www.nature.com/articles/s41587-021-01006-2)
 1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
 1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
+
+## Drug Response
+1. [2022 NeurIPS] **Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution** [[paper]](https://arxiv.org/pdf/2204.13545.pdf)
+1. [2021 biorxiv] **Learning interpretable cellular responses to complex perturbations in high-throughput screens** [[paper]](https://www.biorxiv.org/content/10.1101/2021.04.14.439903v2)
+
 
 ## Batch Effect Correction
 1. [2020 Genomy Biology] **A benchmark of batch-effect correction methods for single-cell RNA sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
