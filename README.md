@@ -179,7 +179,7 @@ and visualization of spatial expression data** [[Tool]](https://genomebiology.bi
 1. [2022 bioRxiv Preprint] **Biologically informed deep learning to infer gene program activity in single cells** [[preprint]](https://www.biorxiv.org/content/10.1101/2022.02.05.479217v2)
 
 ## Cell Segmentation
-1. [2021 Nature Biotechnology] **Cell segmentation in imaging-based spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-021-01094-0) [[code]](https://www.nature.com/articles/s41587-021-01044-w#data-availability)
+1. [2021 Nature Biotechnology] **Cell segmentation in imaging-based spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-021-01094-0) 
 1. [2022 Cytometry A] **MIRIAM: A machine and deep learning single-cell segmentation and quantification pipeline for multi-dimensional tissue images** [[paper]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cyto.a.24541)[[code]](https://github.com/Coffey-Lab/MIRIAM)(MIRIAM)
 1. [2021 Biorxiv] **Scellseg: a style-aware cell instance segmentation tool with pre-training and
 contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021.12.19.473392v1) [[code]](https://github.com/cellimnet/scellseg-publish)
