@@ -207,7 +207,6 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2016 Computational Biology]**Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005177) [[code]](https://github.com/vanvalenlab/deepcell-tf) (Deepcell)
 
 ## Cell Type Deconvolution
-1. [2023 Nature Genetics] **SPICEMIX enables integrative single-cell spatial modeling of cell identity** [[paper]](https://www.nature.com/articles/s41588-022-01256-z)
 1. [2022 Nature Biotechnology] **DestVI identifies continuums of cell types in spatial transcriptomics data** [[paper]](https://www.nature.com/articles/s41587-022-01272-8)
 1. [2022 Biorxiv] **Accurate cell type deconvolution in spatial transcriptomics using a batch effect-free strategy** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.15.520612v1)
 1. [2022 Nature Biotechnology] **Spatially informed cell-type deconvolution for spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41587-022-01273-7#Sec2)
@@ -224,6 +223,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 
 ## Cell Type Annotation 
 1. [2023 Nature Biotech] **TACCO unifies annotation transfer and decomposition of cell identities for single-cell and spatial omics** [[paper]](https://www.nature.com/articles/s41587-023-01657-3) 
+1. [2023 Nature Genetics] **SPICEMIX enables integrative single-cell spatial modeling of cell identity** [[paper]](https://www.nature.com/articles/s41588-022-01256-z)
 1. [2022 Nature Method] **Annotation of spatially resolved single-cell data with STELLAR** [[paper]](https://www.nature.com/articles/s41592-022-01651-8) 
 NOTE: annotated reference cell graph + query cell graph
 1. [2022 Brief Bioinform] **scIAE: an integrative autoencoder-based ensemble classification framework for single-cell RNA-seq data** [[paper]](https://doi.org/10.1093/bib/bbab508)
