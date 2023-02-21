@@ -167,6 +167,7 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 1. [2022 PLOS ONE] **Single-cell specific and interpretable machine learning models for sparse scChIP-seq data imputation** [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270043)
 
 ## Spatial Domain
+1. [2023 Nature Genetics] **SPICEMIX enables integrative single-cell spatial modeling of cell identity** [[paper]](https://www.nature.com/articles/s41588-022-01256-z)
 1. [2023 bioRxiv] **CellCharter: a scalable framework to chart and compare cell niches across multiple samples and spatial -omics technologies** [[preprint]](https://www.biorxiv.org/content/10.1101/2023.01.10.523386v1)
 1. [2022 Nature Communications Biology] **Deciphering tissue structure and function using spatial transcriptomics** [[Review paper]](https://www.nature.com/articles/s42003-022-03175-5)
 1. [2022 Genome Biology] **Statistical and machine learning methods for spatially resolved transcriptomics data analysis** [[Review paper]](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02653-7.pdf)
@@ -223,7 +224,6 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 
 ## Cell Type Annotation 
 1. [2023 Nature Biotech] **TACCO unifies annotation transfer and decomposition of cell identities for single-cell and spatial omics** [[paper]](https://www.nature.com/articles/s41587-023-01657-3) 
-1. [2023 Nature Genetics] **SPICEMIX enables integrative single-cell spatial modeling of cell identity** [[paper]](https://www.nature.com/articles/s41588-022-01256-z)
 1. [2022 Nature Method] **Annotation of spatially resolved single-cell data with STELLAR** [[paper]](https://www.nature.com/articles/s41592-022-01651-8) 
 NOTE: annotated reference cell graph + query cell graph
 1. [2022 Brief Bioinform] **scIAE: an integrative autoencoder-based ensemble classification framework for single-cell RNA-seq data** [[paper]](https://doi.org/10.1093/bib/bbab508)
