@@ -279,6 +279,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
 ## Multimodal Integration
+1. [2022 Nature Communications] **Clustering of single-cell multi-omics data with a multimodal deep learning method** [[Survey]](https://www.nature.com/articles/s41467-022-35031-9)
 1. [2022 Genome Biology] **A benchmark study of deep learning-based multi-omics data fusion methods for cancer** [[Survey]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2)
 1. [2018 ICML] **MAGAN: Aligning biological manifolds** [[paper]](https://proceedings.mlr.press/v80/amodio18a.html)
 1. [2019 PLoS computational biology] **Building gene regulatory networks from scATAC-seq and scRNA-seq using linked self organizing maps** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006555)
