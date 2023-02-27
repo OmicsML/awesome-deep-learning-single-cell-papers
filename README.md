@@ -11,6 +11,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Book](#book)
 - [Single Cell Techonoly](#single-cell-techonoly)
 - [Course](#course)
+- [Single Cell Application](#single-cell-application)
 - [Single Cell RNA Tools](#single-cell-rna-tools)
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
@@ -55,6 +56,7 @@ We will try to make this list updated. If you found any error or any missed pape
     Andrews, Tallulah S., Vladimir Yu Kiselev, Davis McCarthy, and Martin Hemberg. "Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data." https://doi.org/10.1038/s41596-020-00409-w Nature Protocols, December 7, 2020. 
 </details>
 
+## Single Cell Application
 
 
 ## Single Cell RNA Tools 
