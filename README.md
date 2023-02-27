@@ -19,7 +19,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
-- [Single Cell Purturbation or Drug Response](#single-cell-purturbation-drug-response)
+- [Single Cell Purturbation or Drug Response](#single-cell-purturbation-or-drug-response)
 - [Batch Effect Correction](#batch-effect-correction)
 - [Tumor Microenvironment-TME](#tumor-microenvironment-tme)
 - [Cell-Cell Communication Events](#cell-cell-communication-events)
