@@ -123,6 +123,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Batch Effect Correction
+1. [2023 Bioinformatics] **CLAIRE: contrastive learning-based batch correction framework for better balance between batch mixing and preservation of cellular heterogeneity** [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad099/7055295)
 1. [2020 Genomy Biology] **A benchmark of batch-effect correction methods for single-cell RNA sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
 1. [2020 Nature Biotechnology] **A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples** [[paper]](https://www.nature.com/articles/s41587-020-00748-9)
 1. [2019 Nature Methods, **Harmony**] **Fast, sensitive and accurate integration of single-cell data with Harmony** [[paper]](https://www.nature.com/articles/s41592-019-0619-0)
