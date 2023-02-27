@@ -58,6 +58,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Single Cell Application
 1. [2023 Nature Communications] **ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs** [[paper]](https://www.nature.com/articles/s41467-023-36637-3)
+1. [2023 Nature Reviews Clinical Oncology] **Advancing CAR T cell therapy through the use of multidimensional omics data** [[paper]](https://www.nature.com/articles/s41571-023-00729-2)
 
 ## Single Cell RNA Tools 
 [[Tool Summary]](https://www.scrna-tools.org/tools)
