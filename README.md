@@ -16,6 +16,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
 - [Metric Design](#metric-design)
+- [Dimensionality Reduction and Visualization](#dimensionality-reduction-and-visualization)
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
 - [Single Cell Atlas](#single-cell-atlas)
@@ -92,6 +93,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Metric Design
 1. [2019 Narure Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
+
+## Dimensionality Reduction and Visualization
+1. [2023 Genome Research] **Complex hierarchical structures in single-cell genomics data unveiled by deep hyperbolic manifold learning** [[paper]](https://pubmed.ncbi.nlm.nih.gov/36849204/)
+1. [2021 Nature Communications] **Deep generative model embedding of single-cell RNA-Seq profiles on hyperspheres and hyperbolic spaces** [[paper]](https://www.nature.com/articles/s41467-021-22851-4)
+1. [2018 Nature Communications] **Interpretable dimensionality reduction of single cell transcriptome data with deep generative models** [[paper]](https://www.nature.com/articles/s41467-018-04368-5)
 
 
 ## Representation Learning
