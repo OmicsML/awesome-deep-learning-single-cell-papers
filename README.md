@@ -155,6 +155,7 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 
 
 ## Gene Regulatory Network
+1. [2022 Nature Machine Intelligence] **Inferring transcription factor regulatory networks from single-cell ATAC-seq data based on graph neural networks** [[paper]](https://www.nature.com/articles/s42256-022-00469-5)
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
 1. [2022 Biorxiv] **scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)
 1. [2022 Bioinformatics] **High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0** [[paper]](https://academic.oup.com/bioinformatics/article/38/9/2519/6533443)
@@ -281,6 +282,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
 ## Multimodal Integration
+1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[Paper]](https://www.nature.com/articles/s41587-022-01284-4)
 1. [2022 Nature Communications] **Clustering of single-cell multi-omics data with a multimodal deep learning method** [[Survey]](https://www.nature.com/articles/s41467-022-35031-9)
 1. [2022 Genome Biology] **A benchmark study of deep learning-based multi-omics data fusion methods for cancer** [[Survey]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2)
 1. [2018 ICML] **MAGAN: Aligning biological manifolds** [[paper]](https://proceedings.mlr.press/v80/amodio18a.html)
