@@ -178,6 +178,7 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 ## Spatial Domain
 1. [2023 Nature Genetics] **SPICEMIX enables integrative single-cell spatial modeling of cell identity** [[paper]](https://www.nature.com/articles/s41588-022-01256-z)
 1. [2023 bioRxiv] **CellCharter: a scalable framework to chart and compare cell niches across multiple samples and spatial -omics technologies** [[preprint]](https://www.biorxiv.org/content/10.1101/2023.01.10.523386v1)
+1. [2022 Genome Research] **A model-based constrained deep learning clustering approach for spatially resolved single-cell data** [[paper]](https://pubmed.ncbi.nlm.nih.gov/36198490/)
 1. [2022 Nature Communications Biology] **Deciphering tissue structure and function using spatial transcriptomics** [[Review paper]](https://www.nature.com/articles/s42003-022-03175-5)
 1. [2022 Genome Biology] **Statistical and machine learning methods for spatially resolved transcriptomics data analysis** [[Review paper]](https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-022-02653-7.pdf)
 1. [2022 Nature Communications] **Deciphering spatial domains from spatially resolved transcriptomics with adaptive graph attention auto-encoder** [[paper]](https://www.nature.com/articles/s41467-022-29439-6)
