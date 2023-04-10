@@ -289,6 +289,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
 ## Multimodal Integration
+1. [2022 PMLR] **CVQVAE: A representation learning based method for multi-omics single cell data integration** [[Paper]](https://proceedings.mlr.press/v200/liu22a.html)
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[Paper]](https://www.nature.com/articles/s41587-022-01284-4)
 1. [2022 Nature Communications] **Clustering of single-cell multi-omics data with a multimodal deep learning method** [[Survey]](https://www.nature.com/articles/s41467-022-35031-9)
 1. [2022 Genome Biology] **A benchmark study of deep learning-based multi-omics data fusion methods for cancer** [[Survey]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02739-2)
