@@ -75,6 +75,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
+1. [2023 Nature Communications] **A comprehensive benchmarking with practical guidelines for cellular deconvolution of spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41467-023-37168-7)
 1. [2023 bioRxiv] **Benchmarking the Autoencoder Design for Imputing Single-Cell RNA Sequencing Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.16.528866v1.abstract)
 1. [2023 bioRxiv] **Benchmarking Algorithms for Gene Set Scoring of Single-cell ATAC-seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.01.14.524081v1)
 1. [2022 Nature Communications] **Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data** [[paper]](https://www.nature.com/articles/s41467-022-30755-0)
