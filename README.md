@@ -249,6 +249,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 Nature Communications] **scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics** [[paper]](https://doi.org/10.1038/s41467-021-24172-y)
 1. [2022 Science] **Cross-tissue immune cell analysis reveals tissue-specific features in humans** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7612735/#S9)
 1. [2022 Bioinformatics] **CellMeSH: probabilistic cell-type identification using indexed literature** [[paper]](https://doi.org/10.1093/bioinformatics/btab834)
+1. [2022 Cancers] **Transformer for Gene Expression Modeling (T-GEM): An Interpretable Deep Learning Model for Gene Expression-Based Phenotype Predictions** [[paper]](https://pubmed.ncbi.nlm.nih.gov/36230685/)
 1. [2021 Nucleic Acids Research] **scDeepSort: a pre-trained cell-type annotation method for single-cell transcriptomics using deep learning with a weighted graph neural network** [[paper]](https://doi.org/10.1093/nar/gkab775)
 1. [2021 BMC Bioinformatics] **Single-cell classification using graph convolutional networks** [[paper]](https://doi.org/10.1186/s12859-021-04278-2)
 1. [2021 Genome Research] **Semisupervised adversarial neural networks for single-cell classification** [[paper]](https://genome.cshlp.org/content/31/10/1781)
