@@ -106,6 +106,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
 
 ## Pretrained Model
+1. [2023 bioRxiv] **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.03.24.534055v1)
 1. [2023 Nature Biotechnology] **Large language models generate functional protein sequences across diverse families** [[paper]](https://www.nature.com/articles/s41587-022-01618-2)
 1. [2022 Briefings in Bioinformatics] **BioGPT: generative pre-trained transformer for biomedical text generation and mining** [[paper]](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=true)
 1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
