@@ -154,6 +154,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2017 Nature Biotechnology] **Multiplexed droplet single-cell RNA-sequencing using natural genetic variation** [[paper]](https://www.nature.com/articles/nbt.4042)
 
 ## Tumor Microenvironment-TME
+1. [2023 bioRxiv] **Identifying Spatial Co-occurrence in Healthy and InflAmed tissues (ISCHIA)** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.13.526554v1)
 1. [2023 bioRxiv] **Predicting tumor immune microenvironment and checkpoint therapy response of head & neck cancer patients from blood immune single-cell transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2023.01.17.524455v1)
 1. [2022 Nature Biomedical Engineering] **Graph deep learning for the characterization of tumour microenvironments from spatial protein profiles in tissue specimens** [[paper]](https://www.nature.com/articles/s41551-022-00951-w)
 1. [2022 Nature Communications] **SOTIP is a versatile method for microenvironment modeling with spatial omics data** [[paper]](https://www.nature.com/articles/s41467-022-34867-5)
