@@ -16,6 +16,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
 - [Metric Design](#metric-design)
+- [Subcellular Analysis](#subcellular-analysis)
 - [Dimensionality Reduction and Visualization](#dimensionality-reduction-and-visualization)
 - [Representation Learning](#representation-learning)
 - [Pretrained Model](#pretrained-model)
@@ -94,6 +95,14 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Metric Design
 1. [2019 Narure Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
+
+## Subcellular Analysis
+1. [2023 Nature Methods] **Subcellular omics: a new frontier pushing the limits of resolution, complexity and throughput** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049458/pdf/nihms-1881939.pdf)
+1. [2022 BioRxiv] **Bento: A toolkit for subcellular analysis of spatial transcriptomics data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.06.10.495510v1)
+1. [2022 BioRxiv] **Subcellular spatially resolved gene neighborhood networks in single cells** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.03.502409v1)
+
+
+
 
 ## Dimensionality Reduction and Visualization
 1. [2023 Genome Research] **Complex hierarchical structures in single-cell genomics data unveiled by deep hyperbolic manifold learning** [[paper]](https://pubmed.ncbi.nlm.nih.gov/36849204/)
