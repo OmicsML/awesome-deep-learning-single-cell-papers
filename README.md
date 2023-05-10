@@ -115,6 +115,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
 
 ## Pretrained Model
+1. [2023 bioRxiv] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** [[paper]](https://arxiv.org/abs/2304.09667)
 1. [2023 Github] **OpenBioMed** [[Github]](https://github.com/BioFM/OpenBioMed)
 1. [2023 blog] **BioMedLM: a Domain-Specific Large Language Model for Biomedical Text** [[blog]](https://www.mosaicml.com/blog/introducing-pubmed-gpt)
 1. [2023 bioRxiv] **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1)
