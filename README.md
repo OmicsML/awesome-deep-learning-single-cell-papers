@@ -59,6 +59,7 @@ We will try to make this list updated. If you found any error or any missed pape
 </details>
 
 ## Pretrained Model or LLM or Foundation Model
+1. [2023 arxiv] **CancerGPT: Few-shot Drug Pair Synergy Prediction using Large Pre-trained Language Models** [[paper]](https://arxiv.org/abs/2304.10946)
 1. [2023 iSchience tGPT] **Generative pretraining from large-scale transcriptomes for single-cell deciphering** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004223006132)
 1. [2023 bioRxiv] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** [[paper]](https://arxiv.org/abs/2304.09667)
 1. [2023 Github] **OpenBioMed** [[Github]](https://github.com/BioFM/OpenBioMed)
