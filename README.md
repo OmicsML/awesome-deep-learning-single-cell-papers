@@ -155,6 +155,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 ICLR] **Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information** [[paper]](https://openreview.net/forum?id=ICYasJBlZNs)
 1. [2022 NeurIPS] **Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution** [[paper]](https://arxiv.org/pdf/2204.13545.pdf)
 1. [2021 biorxiv] **Learning interpretable cellular responses to complex perturbations in high-throughput screens** [[paper]](https://www.biorxiv.org/content/10.1101/2021.04.14.439903v2)
+1. [2019 Nature Methods] **scGen predicts single-cell perturbation responses** [[paper]](https://www.nature.com/articles/s41592-019-0494-8)
 
 
 ## Batch Effect Correction
