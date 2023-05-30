@@ -60,6 +60,7 @@ We will try to make this list updated. If you found any error or any missed pape
 </details>
 
 ## Pretrained Model or LLM or Foundation Model
+1. [2023 arxiv] **BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks** [[paper]](https://arxiv.org/abs/2305.17100)
 1. [2023 arxiv] **Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding** [[paper]](https://arxiv.org/abs/2305.12031)
 1. [2023 arxiv] **CancerGPT: Few-shot Drug Pair Synergy Prediction using Large Pre-trained Language Models** [[paper]](https://arxiv.org/abs/2304.10946)
 1. [2023 iSchience tGPT] **Generative pretraining from large-scale transcriptomes for single-cell deciphering** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004223006132)
