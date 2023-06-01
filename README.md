@@ -153,6 +153,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
 
 ## Single Cell Purturbation or Drug Response
+1. [2023 Nature] **Dissecting cell identity via network inference and in silico gene perturbation** [[paper]](https://www.nature.com/articles/s41586-022-05688-9)
 1. [2023 biorxiv Diffusion Model] **The Power of Two: integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.13.536789v1)
 1. [2023 ICLR] **Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information** [[paper]](https://openreview.net/forum?id=ICYasJBlZNs)
 1. [2022 arxiv] **CausalBench: A Large-scale Benchmark for Network Inference from Single-cell Perturbation Data** [[paper]](https://arxiv.org/abs/2210.17283)
