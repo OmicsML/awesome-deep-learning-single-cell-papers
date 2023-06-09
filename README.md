@@ -15,13 +15,13 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Spatialtemporal Spatial Transcriptomic](#spatialtemporal-spatial-transcriptomic)
 - [Single Cell Application](#single-cell-application)
 - [Tools For Single Cell or Spatial Data](#tools-for-single-cell-or-spatial-data)
+- [Single Cell Atlas](#single-cell-atlas)
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
 - [Metric Design](#metric-design)
 - [Subcellular Analysis](#subcellular-analysis)
 - [Dimensionality Reduction and Visualization](#dimensionality-reduction-and-visualization)
 - [Representation Learning](#representation-learning)
-- [Single Cell Atlas](#single-cell-atlas)
 - [Single Cell Purturbation or Drug Response](#single-cell-purturbation-or-drug-response)
 - [Batch Effect Correction](#batch-effect-correction)
 - [Tumor Microenvironment-TME](#tumor-microenvironment-tme)
@@ -97,6 +97,16 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Nucleic Acids Research] **DeepBIO: an automated and interpretable deep-learning platform for high-throughput biological sequence prediction, functional annotation and visualization analysis** [[paper]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad055/7041952)
 1. [2023 Github] **SpatialTis: an ultra-fast spatial analysis toolkit for large-scale spatial single-cell data.** [[github]](https://github.com/Mr-Milk/SpatialTis)
 
+## Single Cell Atlas
+1. [2022 Nucleic Acids Research] **Aquila: a spatial omics database and analysis platform** [[paper]](https://academic.oup.com/nar/article/51/D1/D827/6761736)
+1. [[Cellxgene Datasets: 546 datasets by 2022]](https://cellxgene.cziscience.com/datasets)
+1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
+1. [2022 bioRxiv] **A unified analysis of atlas single cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503038v1.full.pdf)
+1. [2022 Nature Biotechnology] **Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis** [[paper]](https://www.nature.com/articles/s41587-021-01006-2)
+1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
+1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
+
+
 ## Single Cell Visualization
 1. [[Chanzuckerberg: An interactive explorer for single-cell transcriptomics data]](https://github.com/chanzuckerberg/cellxgene)
 1. [[UCSC Cell Browser]](http://cells.ucsc.edu/)
@@ -145,15 +155,6 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Representation Learning
 1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
-
-
-## Single Cell Atlas
-1. [[Cellxgene Datasets: 546 datasets by 2022]](https://cellxgene.cziscience.com/datasets)
-1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
-1. [2022 bioRxiv] **A unified analysis of atlas single cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503038v1.full.pdf)
-1. [2022 Nature Biotechnology] **Integration of spatial and single-cell transcriptomic data elucidates mouse organogenesis** [[paper]](https://www.nature.com/articles/s41587-021-01006-2)
-1. [2022 bioRxiv] **Supervised spatial inference of dissociated single-cell data with SageNet** [[paper]](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1)
-1. [2022 Nature Communications] **Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space** [[paper]](https://www.nature.com/articles/s41467-022-33758-z)
 
 ## Single Cell Purturbation or Drug Response
 1. [2023 Nature] **Dissecting cell identity via network inference and in silico gene perturbation** [[paper]](https://www.nature.com/articles/s41586-022-05688-9)
