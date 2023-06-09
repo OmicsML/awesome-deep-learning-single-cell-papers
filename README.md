@@ -154,8 +154,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Representation Learning
-1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
+1. [2023 Genome Biology] **Correcting gradient-based interpretations of deep neural networks for genomics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3)
+1. [2023 Nature Methods] **SIMBA: single-cell embedding along with features** [[paper]](https://www.nature.com/articles/s41592-023-01899-8)
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
+1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
+
 
 ## Single Cell Purturbation or Drug Response
 1. [2023 Nature] **Dissecting cell identity via network inference and in silico gene perturbation** [[paper]](https://www.nature.com/articles/s41586-022-05688-9)
