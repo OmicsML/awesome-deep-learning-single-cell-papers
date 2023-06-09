@@ -14,7 +14,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Pretrained Model or LLM or Foundation Model](#pretrained-model-or-llm-or-foundation-model)
 - [Spatialtemporal Spatial Transcriptomic](#spatialtemporal-spatial-transcriptomic)
 - [Single Cell Application](#single-cell-application)
-- [Single Cell RNA Tools](#single-cell-rna-tools)
+- [Tools For Single Cell or Spatial Data](#tools-for-single-cell-or-spatial-data)
 - [Single Cell Visualization](#single-cell-visualization)
 - [Benchmarking](#benchmarking)
 - [Metric Design](#metric-design)
@@ -92,7 +92,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Nature Communications] **ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs** [[paper]](https://www.nature.com/articles/s41467-023-36637-3)
 1. [2023 Nature Reviews Clinical Oncology] **Advancing CAR T cell therapy through the use of multidimensional omics data** [[paper]](https://www.nature.com/articles/s41571-023-00729-2)
 
-## Single Cell RNA Tools 
+## Tools For Single Cell or Spatial Data
 [[Tool Summary]](https://www.scrna-tools.org/tools)
 1. [2023 Nucleic Acids Research] **DeepBIO: an automated and interpretable deep-learning platform for high-throughput biological sequence prediction, functional annotation and visualization analysis** [[paper]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad055/7041952)
 
