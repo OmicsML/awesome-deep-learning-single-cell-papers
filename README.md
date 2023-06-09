@@ -98,6 +98,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Github] **SpatialTis: an ultra-fast spatial analysis toolkit for large-scale spatial single-cell data.** [[github]](https://github.com/Mr-Milk/SpatialTis)
 
 ## Single Cell Atlas
+1. [2023 Nature Medicine] **An integrated cell atlas of the lung in health and disease** [[paper]](https://www.nature.com/articles/s41591-023-02327-2)
 1. [2022 Nucleic Acids Research] **Aquila: a spatial omics database and analysis platform** [[paper]](https://academic.oup.com/nar/article/51/D1/D827/6761736)
 1. [[Cellxgene Datasets: 546 datasets by 2022]](https://cellxgene.cziscience.com/datasets)
 1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
