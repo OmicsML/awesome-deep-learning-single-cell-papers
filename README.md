@@ -73,6 +73,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 bioRxiv] **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1)
 1. [2023 bioRxiv] **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.03.24.534055v1)
 1. [2023 Nature Biotechnology] **Large language models generate functional protein sequences across diverse families** [[paper]](https://www.nature.com/articles/s41587-022-01618-2)
+1. [2022 arxiv] **A single-cell gene expression language model** [[paper]](https://arxiv.org/abs/2210.14330)
 1. [2022 Briefings in Bioinformatics] **BioGPT: generative pre-trained transformer for biomedical text generation and mining** [[paper]](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=true)
 1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
 1. [2022 bioRxiv] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
