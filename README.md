@@ -62,6 +62,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2023 bioRxiv] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.28.517803v1)
 1. [2023 bioRxiv] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v2)
 1. [2023 Bioinformatics] **Applications of transformer-based language models in bioinformatics: a survey** [[paper]](https://pubmed.ncbi.nlm.nih.gov/36845200/)
 1. [2023 Nature] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
