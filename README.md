@@ -86,6 +86,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2021 Arxiv, 1111 citations] **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks** [[paper]](https://arxiv.org/pdf/2004.10964.pdf)
 
 ## Spatialtemporal Spatial Transcriptomic
+1. [2023 Nature Communications] **Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions** [[paper]](https://www.nature.com/articles/s41467-021-23518-w)
 1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
 1. [2022 bioRxiv] **Spateo: multidimensional spatiotemporal modeling of single-cell spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519417v1.abstract)
