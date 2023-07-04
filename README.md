@@ -201,6 +201,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Cell-Cell Communication Events
+1. [2023 Cell Systems] **Single-cell A/B testing for cell-cell communication** [[paper]](https://www.sciencedirect.com/science/article/pii/S2405471223001503)
 1. [2023 Nature Biotechnology] **Inferring cell–cell communication at single-cell resolution** [[paper]](https://www.nature.com/articles/s41587-023-01834-4)
 1. [2022 bioRxiv] **scTensor detects many-to-many cell–cell interactions from single cell RNA-sequencing data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519225v1)
 1. [2022 Nature Biotechnology] **Modeling intercellular communication in tissues using spatial graphs of cells** [[paper]](https://www.nature.com/articles/s41587-022-01467-z)
