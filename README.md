@@ -173,6 +173,9 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Nature Methods] **SIMBA: single-cell embedding along with features** [[paper]](https://www.nature.com/articles/s41592-023-01899-8)
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
 1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
+1. [2020 Nature Communications] **Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks** [[paper]](https://www.nature.com/articles/s41467-019-14018-z)
+1. [2019 Nature Methods] **Data denoising with transfer learning in single-cell transcriptomics** [[paper]](https://www.nature.com/articles/s41592-019-0537-1)
+1. [2018 Nature Methods] **Deep generative modeling for single-cell transcriptomics** [[paper]](https://www.nature.com/articles/s41592-018-0229-2)
 
 
 ## Single Cell Purturbation or Drug Response
