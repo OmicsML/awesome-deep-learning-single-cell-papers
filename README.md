@@ -92,6 +92,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## GAN or Diffusion Model
 1. [2023 biorxiv Diffusion Model] **The Power of Two: integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.13.536789v1)
+1. [2023 biorxiv GAN] **Scalable Integration of Multiomic Single Cell Data Using Generative Adversarial Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.26.546547v2)
+1. [2023 biorxiv Diffusion Model] **Spontanously breaking of symmetry in overlapping cell instance segmentation using diffusion models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.07.548066v1)
 
 
 ## Interpretability
