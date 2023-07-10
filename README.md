@@ -13,7 +13,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Course](#course)
 - [Pretrained Model or LLM or Foundation Model](#pretrained-model-or-llm-or-foundation-model)
 - [Interpretability](#interpretability)
-- [Spatialtemporal Spatial Transcriptomic](#spatialtemporal-spatial-transcriptomic)
+- [Spatialtemporal Transcriptomic](#spatialtemporal-transcriptomic)
 - [Cellular Dynamics](#cellular-dynamics)
 - [Single Cell Application](#single-cell-application)
 - [Tools For Single Cell or Spatial Data](#tools-for-single-cell-or-spatial-data)
@@ -96,7 +96,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 
-## Spatialtemporal Spatial Transcriptomic
+## Spatialtemporal Transcriptomic
 1. [2023 Nature Communications] **Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions** [[paper]](https://www.nature.com/articles/s41467-021-23518-w)
 1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
