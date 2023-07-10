@@ -12,7 +12,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Single Cell Techonoly](#single-cell-techonoly)
 - [Course](#course)
 - [Pretrained Model or LLM or Foundation Model](#pretrained-model-or-llm-or-foundation-model)
-- [Diffusion or  Model](#diffusion-or-model)
+- [GAN or Diffusion Model](#gan-or-diffusion-model)
 - [Interpretability](#interpretability)
 - [Spatialtemporal Transcriptomic](#spatialtemporal-transcriptomic)
 - [Cellular Dynamics](#cellular-dynamics)
