@@ -94,6 +94,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2021 Arxiv, 1111 citations] **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks** [[paper]](https://arxiv.org/pdf/2004.10964.pdf)
 
 ## GAN or Diffusion Model
+1. [2023 biorxiv GAN] **Predicting cell morphological responses to perturbations using generative modeling** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.17.549216v1)
 1. [2023 Nature Diffusion Model] **AI tools are designing entirely new proteins that could transform medicine** [[paper]](https://www.nature.com/articles/d41586-023-02227-y)
 1. [2023 biorxiv Diffusion Model] **The Power of Two: integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.13.536789v1)
 1. [2023 biorxiv GAN] **Scalable Integration of Multiomic Single Cell Data Using Generative Adversarial Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.26.546547v2)
