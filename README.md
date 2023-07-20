@@ -109,6 +109,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Spatialtemporal Transcriptomic
+1. [2023 KDD Reference from CS filed] **Spatio-temporal Diffusion Point Processes** [[paper]](https://arxiv.org/pdf/2305.12403.pdf)
 1. [2023 arxiv Reference from CS filed] **Long-Range Transformers for Dynamic Spatiotemporal Forecasting** [[paper]](https://arxiv.org/pdf/2109.12218.pdf)
 1. [2023 Nature Communications] **Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions** [[paper]](https://www.nature.com/articles/s41467-021-23518-w)
 1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)
