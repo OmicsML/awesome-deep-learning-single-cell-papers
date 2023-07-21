@@ -83,11 +83,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Github] **OpenBioMed** [[Github]](https://github.com/BioFM/OpenBioMed)
 1. [2023 blog] **BioMedLM: a Domain-Specific Large Language Model for Biomedical Text** [[blog]](https://www.mosaicml.com/blog/introducing-pubmed-gpt)
 1. [2023 bioRxiv] **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1)
-        
-        
 1. [2023 bioRxiv] **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.03.24.534055v1)
-        
-        
 1. [2023 Nature Biotechnology] **Large language models generate functional protein sequences across diverse families** [[paper]](https://www.nature.com/articles/s41587-022-01618-2)
 1. [2022 arxiv] **A single-cell gene expression language model** [[paper]](https://arxiv.org/abs/2210.14330)
 1. [2022 Briefings in Bioinformatics] **BioGPT: generative pre-trained transformer for biomedical text generation and mining** [[paper]](https://academic.oup.com/bib/article/23/6/bbac409/6713511?guestAccessKey=a66d9b5d-4f83-4017-bb52-405815c907b9&login=true)
@@ -95,8 +91,6 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 bioRxiv] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
 1. [2022 Bioinformatics] **scPretrain: multi-task self-supervised learning for cell-type classification** [[paper]](https://academic.oup.com/bioinformatics/article/38/6/1607/6499287)
 1. [2021 PNAS] **Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences** [[paper]](https://www.pnas.org/doi/10.1073/pnas.2016239118)
-        
-        
 1. [2021 Bioinformatics] **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome** [[paper]](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
 1. [2021 Arxiv, 576 citations] **Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing** [[paper]](https://arxiv.org/pdf/2004.10964.pdf)
 1. [2021 Arxiv, 1111 citations] **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks** [[paper]](https://arxiv.org/pdf/2004.10964.pdf)
@@ -121,9 +115,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 KDD Reference from CS filed] **Spatio-temporal Diffusion Point Processes** [[paper]](https://arxiv.org/pdf/2305.12403.pdf)
 1. [2023 arxiv Reference from CS filed] **Long-Range Transformers for Dynamic Spatiotemporal Forecasting** [[paper]](https://arxiv.org/pdf/2109.12218.pdf)
 1. [2023 Nature Communications] **Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions** [[paper]](https://www.nature.com/articles/s41467-021-23518-w)
-1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)
-        
-        
+1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)        
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
 1. [2022 bioRxiv] **Spateo: multidimensional spatiotemporal modeling of single-cell spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519417v1.abstract)
         
