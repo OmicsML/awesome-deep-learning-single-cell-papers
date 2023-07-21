@@ -15,6 +15,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [GAN or Diffusion Model](#gan-or-diffusion-model)
 - [Interpretability](#interpretability)
 - [Spatialtemporal Transcriptomic](#spatialtemporal-transcriptomic)
+- [Molecular Representation Learning](#molecular-representation-learning)
 - [Cellular Dynamics](#cellular-dynamics)
 - [Single Cell Application](#single-cell-application)
 - [Tools For Single Cell or Spatial Data](#tools-for-single-cell-or-spatial-data)
@@ -115,6 +116,10 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
 1. [2022 bioRxiv] **Spateo: multidimensional spatiotemporal modeling of single-cell spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519417v1.abstract)
+
+## Molecular Representation Learning
+1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
+
 
 ## Cellular Dynamics
 1. [2023 Genome Biology] **scTour: a deep learning architecture for robust inference and accurate prediction of cellular dynamics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02988-9)
