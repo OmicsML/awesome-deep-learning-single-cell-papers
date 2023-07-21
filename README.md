@@ -134,8 +134,6 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Single Cell Application
 1. [2023 Nature Methods] **Machine learning in rare disease** [[paper]](https://www.nature.com/articles/s41592-023-01886-z)
 1. [2023 Molecular System Biology] **Single-cell biology: what does the future hold?** [[paper]](https://www.embopress.org/doi/full/10.15252/msb.202311799)
-        
-        
 1. [2023 Genes] **Single-Cell Analysis in the Omics Era: Technologies and Applications in Cancer** [[paper]](https://www.mdpi.com/2073-4425/14/7/1330)
 1. [2023 Nature Communications] **ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs** [[paper]](https://www.nature.com/articles/s41467-023-36637-3)
 1. [2023 Nature Reviews Clinical Oncology] **Advancing CAR T cell therapy through the use of multidimensional omics data** [[paper]](https://www.nature.com/articles/s41571-023-00729-2)
