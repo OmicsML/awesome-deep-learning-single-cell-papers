@@ -62,14 +62,14 @@ We will try to make this list updated. If you found any error or any missed pape
     <summary>Paper</summary>
     Andrews, Tallulah S., Vladimir Yu Kiselev, Davis McCarthy, and Martin Hemberg. "Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data." https://doi.org/10.1038/s41596-020-00409-w
         
+        
+        
          Nature Protocols, December 7, 2020. 
 </details>
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
 1. [2023 bioRxiv] **Contextualizing protein representations using deep learning on protein networks and single-cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549602v1)
-        
-        
 1. [2023 Nature] **Large language models encode clinical knowledge** [[paper]](https://www.nature.com/articles/s41586-023-06291-2)
 1. [2023 Nature Methods] **Towards foundation models of biological image segmentation** [[paper]](https://www.nature.com/articles/s41592-023-01885-0)
 1. [2023 bioRxiv] **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
@@ -101,18 +101,10 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## GAN or Diffusion Model
 1. [2023 biorxiv GAN] **Predicting cell morphological responses to perturbations using generative modeling** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.17.549216v1)
-        
-        
 1. [2023 Nature Diffusion Model] **AI tools are designing entirely new proteins that could transform medicine** [[paper]](https://www.nature.com/articles/d41586-023-02227-y)
 1. [2023 biorxiv Diffusion Model] **The Power of Two: integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.13.536789v1)
-        
-        
 1. [2023 biorxiv GAN] **Scalable Integration of Multiomic Single Cell Data Using Generative Adversarial Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.26.546547v2)
-        
-        
 1. [2023 biorxiv Diffusion Model] **Spontanously breaking of symmetry in overlapping cell instance segmentation using diffusion models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.07.548066v1)
-        
-        
 
 
 ## Interpretability
@@ -126,12 +118,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 arxiv Reference from CS filed] **Long-Range Transformers for Dynamic Spatiotemporal Forecasting** [[paper]](https://arxiv.org/pdf/2109.12218.pdf)
 1. [2023 Nature Communications] **Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions** [[paper]](https://www.nature.com/articles/s41467-021-23518-w)
 1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)
-        
-        
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
 1. [2022 bioRxiv] **Spateo: multidimensional spatiotemporal modeling of single-cell spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519417v1.abstract)
-        
-        
 
 ## Molecular Representation Learning
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
@@ -139,15 +127,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Cellular Dynamics
 1. [2023 Genome Biology] **scTour: a deep learning architecture for robust inference and accurate prediction of cellular dynamics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02988-9)
-        
-        
 
 
 ## Single Cell Application
 1. [2023 Nature Methods] **Machine learning in rare disease** [[paper]](https://www.nature.com/articles/s41592-023-01886-z)
 1. [2023 Molecular System Biology] **Single-cell biology: what does the future hold?** [[paper]](https://www.embopress.org/doi/full/10.15252/msb.202311799)
-        
-        
 1. [2023 Genes] **Single-Cell Analysis in the Omics Era: Technologies and Applications in Cancer** [[paper]](https://www.mdpi.com/2073-4425/14/7/1330)
 1. [2023 Nature Communications] **ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs** [[paper]](https://www.nature.com/articles/s41467-023-36637-3)
 1. [2023 Nature Reviews Clinical Oncology] **Advancing CAR T cell therapy through the use of multidimensional omics data** [[paper]](https://www.nature.com/articles/s41571-023-00729-2)
@@ -155,8 +139,6 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Tools For Single Cell or Spatial Data
 [[Tool Summary]](https://www.scrna-tools.org/tools)
 1. [2023 Nucleic Acids Research] **DeepBIO: an automated and interpretable deep-learning platform for high-throughput biological sequence prediction, functional annotation and visualization analysis** [[paper]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad055/7041952)
-        
-        
 1. [2023 Github] **SpatialTis: an ultra-fast spatial analysis toolkit for large-scale spatial single-cell data.** [[github]](https://github.com/Mr-Milk/SpatialTis)
 
 ## Single Cell Atlas
@@ -199,13 +181,21 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 Nature Methods] **Benchmarking atlas-level data integration in single-cell genomics** [[paper]](https://www.nature.com/articles/s41592-021-01336-8.pdf)
 1. [2022 Nature Methods] **Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution** [[paper]](https://www.nature.com/articles/s41592-022-01480-9)
 1. [2022 BioRxiv] **Benchmarking Automated Cell Type Annotation Tools for Single-cell ATAC-seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.10.05.511014v1)
+        
+        
 1. [2022 Briefings in Bioinformatics] **Benchmarking methods for detecting differential states between conditions from multi-subject single-cell RNA-seq data** [[paper]](https://academic.oup.com/bib/article/23/5/bbac286/6649780)
 1. [2022 Nucleic Acids Research] **scIMC: a platform for benchmarking comparison and visualization analysis of scRNA-seq data imputation methods** [[paper]](https://academic.oup.com/nar/article/50/9/4877/6582166)
 1. [2021 Frontiers in Genetics] **Evaluating the Reproducibility of Single-Cell Gene Regulatory Network Inference Algorithms** [[paper]](https://www.frontiersin.org/articles/10.3389/fgene.2021.617282/full)
+        
+        
 1. [2021 Nature Communications] **A benchmark study of simulation methods for single-cell RNA sequencing data** [[paper]](https://www.nature.com/articles/s41467-021-27130-w)
 1. [2021 Genome Biology] **Benchmarking UMI-based single-cell RNA-seq preprocessing workflows** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02552-3)
+        
+        
 1. [2020 Nature Methods] **Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data** [[paper]](https://www.nature.com/articles/s41592-019-0690-6)
 1. [2020 Genome Biology] **A benchmark of batch-effect correction methods for single-cell RNA sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)
+        
+        
 1. [2020 Nature Biotechnology] **A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples** [[paper]](https://www.nature.com/articles/s41587-020-00748-9)
 1. [2019 Nature Methods] **Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments** [[paper]](https://www.nature.com/articles/s41592-019-0425-8)
 
@@ -214,9 +204,17 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Subcellular Analysis
 1. [2023 Science] **Spatially resolved single-cell translatomics at molecular resolution** [[paper]](https://www.science.org/doi/10.1126/science.add3067)
-1. [2023 Nature Methods] **Subcellular omics: a new frontier pushing the limits of resolution, complexity and throughput** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049458/pdf/nihms-1881939.pdf)
+        
+        
+1. [2023 Nature Methods] **Subcellular omics: a new frontier pushing the limits of resolution, complexity and throughput** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049458
+        
+        /pdf/nihms-1881939.pdf)
 1. [2022 BioRxiv] **Bento: A toolkit for subcellular analysis of spatial transcriptomics data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.06.10.495510v1)
+        
+        
 1. [2022 BioRxiv] **Subcellular spatially resolved gene neighborhood networks in single cells** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.03.502409v1)
+        
+        
 1. [2023 bioRxiv] **Statistical analysis supports pervasive RNA subcellular localization and alternative 3’ UTR regulation** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2022/10/27/2022.10.26.513902.full.pdf)
 
 
@@ -229,6 +227,8 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Representation Learning
 1. [2023 Genome Biology] **Correcting gradient-based interpretations of deep neural networks for genomics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3)
+        
+        
 1. [2023 Nature Methods] **SIMBA: single-cell embedding along with features** [[paper]](https://www.nature.com/articles/s41592-023-01899-8)
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
 1. [2021 Current Opinion in Systems Biology] **Graph representation learning for single-cell biology** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452310021000329)
