@@ -60,7 +60,11 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [[ANALYSIS OF SINGLE CELL RNA-SEQ DATA]](https://broadinstitute.github.io/2019_scWorkshop/index.html), course by Orr Ashenberg, Dana Silverbush, Kirk Gosik
 1. [[Analysis of single cell RNA-seq data, www.singlecellcourse.org]](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html) - step-by-step scRNA-seq analysis course. R-based, with code examples, explanations, exercises. From alignment (STAR) and QC (FASTQC) to introduction to R, SingleCellExperiment class, `scater` object, data exploration (reads, UMI), filtering, normalization (`scran`), batch effect removal (`RUV`, `ComBat`, `mnnCorrect`, GLM, `Harmony`), clustering and marker gene identification (`SINCERA`, `SC3`, tSNE, `Seurat`), feature selection (`M3Drop::M3DropConvertData`, `BrenneckeGetVariableGenes`), pseudotime analysis (`TSCAN`, `Monocle`, diffusion maps, `SLICER`, `Ouija`, `destiny`), imputation (`scImpute`, `DrImpute`, `MAGIC`), differential expression (Kolmogorov-Smirnov, Wilcoxon, `edgeR`, `Monocle`, `MAST`), data integration (`scmap`, cell-to-cell mapping, `Metaneighbour`, `mnnCorrect`, `Seurat`'s canonical correllation analysis). Search for scRNA-seq data ([scfind](https://github.com/hemberg-lab/scfind) R package), as well as [Hemberg group’s public datasets](https://hemberg-lab.github.io/scRNA.seq.datasets/). [Seurat chapter](https://scrnaseq-course.cog.sanger.ac.uk/website/seurat-chapter.html). ["Ideal" scRNA-seq pipeline](https://scrnaseq-course.cog.sanger.ac.uk/website/ideal-scrnaseq-pipeline-as-of-oct-2017.html). [Video lectures](https://www.youtube.com/watch?list=PLEyKDyF1qdOYAhwU71qlrOXYsYHtyIu8n&v=56n77bpjiKo). <details>
     <summary>Paper</summary>
-    Andrews, Tallulah S., Vladimir Yu Kiselev, Davis McCarthy, and Martin Hemberg. "Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data." https://doi.org/10.1038/s41596-020-00409-w Nature Protocols, December 7, 2020. 
+    Andrews, Tallulah S., Vladimir Yu Kiselev, Davis McCarthy, and Martin Hemberg. "Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data." https://doi.org/10.1038/s41596-020-00409-w
+        
+        
+        
+         Nature Protocols, December 7, 2020. 
 </details>
 
 ## Pretrained Model or LLM or Foundation Model
@@ -103,6 +107,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 biorxiv Diffusion Model] **Spontanously breaking of symmetry in overlapping cell instance segmentation using diffusion models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.07.548066v1)
         
         
+        
+        
 
 
 ## Interpretability
@@ -127,7 +133,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Molecular Representation Learning
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
-
+1. [2023 ICLR] **One Transformer Can Understand Both 2D & 3D Molecular Data** [[paper]](https://arxiv.org/pdf/2210.01765.pdf)
 
 ## Cellular Dynamics
 1. [2023 Genome Biology] **scTour: a deep learning architecture for robust inference and accurate prediction of cellular dynamics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02988-9)
