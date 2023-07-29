@@ -122,6 +122,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
 1. [2022 bioRxiv] **Spateo: multidimensional spatiotemporal modeling of single-cell spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519417v1.abstract)
 1. [2022 ICLR Reference from CS field] **UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning** [[paper]](https://arxiv.org/abs/2201.04676)
+1. [2022 NeurIPS spatial-temporal single-cell -> spatial-temporal video] **Flamingo: a Visual Language Model for Few-Shot Learning** [[paper]](https://arxiv.org/abs/2204.14198)
 1. [2022 arxiv, image-gene expression contrastive learning] **CoCa: Contrastive Captioners are Image-Text Foundation Models** [[paper]](https://arxiv.org/pdf/2205.01917.pdf)
 1. [2020 ICLR, image-gene expression pretraining] **VL-BERT: Pre-training of Generic Visual-Linguistic Representations** [[paper]](https://arxiv.org/pdf/1908.08530.pdf)
 
