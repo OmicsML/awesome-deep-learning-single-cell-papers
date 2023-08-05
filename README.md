@@ -69,6 +69,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2023 arxiv] **Towards Generalist Biomedical AI** [[paper]](https://arxiv.org/abs/2307.14334)
 1. [2023 bioRxiv] **Contextualizing protein representations using deep learning on protein networks and single-cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549602v1)
 1. [2023 Nature] **Large language models encode clinical knowledge** [[paper]](https://www.nature.com/articles/s41586-023-06291-2)
 1. [2023 Nature Methods] **Towards foundation models of biological image segmentation** [[paper]](https://www.nature.com/articles/s41592-023-01885-0)
@@ -118,15 +119,20 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Spatialtemporal Transcriptomic
-1. [2023 ICML Reference from CS filed] **Continuous Spatiotemporal Transformers** [[paper]](https://arxiv.org/abs/2301.13338)
-1. [2023 arxiv Reference from CS filed] **Meta-Transformer: A Unified Framework for Multimodal Learning** [[paper]](https://arxiv.org/pdf/2307.10802.pdf)
-1. [2023 KDD Reference from CS filed] **Spatio-temporal Diffusion Point Processes** [[paper]](https://arxiv.org/pdf/2305.12403.pdf)
-1. [2023 arxiv Reference from CS filed] **Long-Range Transformers for Dynamic Spatiotemporal Forecasting** [[paper]](https://arxiv.org/pdf/2109.12218.pdf)
+1. [2023 ICML Reference from CS field] **Continuous Spatiotemporal Transformers** [[paper]](https://arxiv.org/abs/2301.13338)
+1. [2023 arxiv multimodalities Reference from CS field] **IMAGEBIND: One Embedding Space To Bind Them All** [[paper]](https://arxiv.org/pdf/2305.05665.pdf)
+1. [2023 arxiv multimodalities Reference from CS field] **UnIVAL: Unified Model for Image, Video, Audio and Language Tasks** [[paper]](https://arxiv.org/pdf/2307.16184.pdf)
+1. [2023 arxiv multimodalities Reference from CS field] **Meta-Transformer: A Unified Framework for Multimodal Learning** [[Meta-Transformer paper]](https://arxiv.org/pdf/2307.10802.pdf)[[viT vision Transformer paper]](https://arxiv.org/abs/2010.11929)[[ImageGPT paper Generative Pretraining From Pixels]](https://proceedings.mlr.press/v119/chen20s.html)
+1. [2023 KDD Reference from CS field] **Spatio-temporal Diffusion Point Processes** [[paper]](https://arxiv.org/pdf/2305.12403.pdf)
+1. [2023 arxiv Reference from CS field] **Long-Range Transformers for Dynamic Spatiotemporal Forecasting** [[paper]](https://arxiv.org/pdf/2109.12218.pdf)
 1. [2023 Nature Communications] **Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions** [[paper]](https://www.nature.com/articles/s41467-021-23518-w)
 1. [2023 bioRxiv] **Mapping cells through time and space with moscot** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1)        
 1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
 1. [2022 bioRxiv] **Spateo: multidimensional spatiotemporal modeling of single-cell spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.12.07.519417v1.abstract)
-1. [2022 ICLR Reference from CS filed] **UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning** [[paper]](https://arxiv.org/abs/2201.04676)
+1. [2022 ICLR Reference from CS field] **UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning** [[paper]](https://arxiv.org/abs/2201.04676)
+1. [2022 NeurIPS spatial-temporal single-cell -> spatial-temporal video] **Flamingo: a Visual Language Model for Few-Shot Learning** [[paper]](https://arxiv.org/abs/2204.14198)
+1. [2022 arxiv, image-gene expression contrastive learning] **CoCa: Contrastive Captioners are Image-Text Foundation Models** [[paper]](https://arxiv.org/pdf/2205.01917.pdf)
+1. [2020 ICLR, image-gene expression pretraining] **VL-BERT: Pre-training of Generic Visual-Linguistic Representations** [[paper]](https://arxiv.org/pdf/1908.08530.pdf)
 
         
         
