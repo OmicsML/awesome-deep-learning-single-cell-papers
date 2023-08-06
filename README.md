@@ -133,6 +133,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
 
 ## Single Cell Perturbation or Drug Response
+1. [2023 biorxiv] **Learning Perturbation-specific Cell Representations for Prediction of Transcriptional Response across Cellular Contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2023.03.20.533433v1)
 1. [2023 Nature] **Dissecting cell identity via network inference and in silico gene perturbation** [[paper]](https://www.nature.com/articles/s41586-022-05688-9)
 1. [2023 biorxiv Diffusion Model] **The Power of Two: integrating deep diffusion models and variational autoencoders for single-cell transcriptomics analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.13.536789v1)
 1. [2023 ICLR] **Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information** [[paper]](https://openreview.net/forum?id=ICYasJBlZNs)
