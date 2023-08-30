@@ -65,6 +65,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2023 Nature Medicine] **A visual–language foundation model for pathology image analysis using medical Twitter** [[paper]](https://www.nature.com/articles/s41591-023-02504-3)
 1. [2023 arxiv] **Towards Generalist Biomedical AI** [[paper]](https://arxiv.org/abs/2307.14334)
 1. [2023 bioRxiv] **Contextualizing protein representations using deep learning on protein networks and single-cell data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549602v1)
 1. [2023 Nature] **Large language models encode clinical knowledge** [[paper]](https://www.nature.com/articles/s41586-023-06291-2)
