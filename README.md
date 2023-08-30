@@ -128,6 +128,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2022 NeurIPS spatial-temporal single-cell -> spatial-temporal video] **Flamingo: a Visual Language Model for Few-Shot Learning** [[paper]](https://arxiv.org/abs/2204.14198)
 1. [2022 arxiv, image-gene expression contrastive learning] **CoCa: Contrastive Captioners are Image-Text Foundation Models** [[paper]](https://arxiv.org/pdf/2205.01917.pdf)
 1. [2020 ICLR, image-gene expression pretraining] **VL-BERT: Pre-training of Generic Visual-Linguistic Representations** [[paper]](https://arxiv.org/pdf/1908.08530.pdf)
+1. [2019 AAAI, image-gene expression pretraining] **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training** [[paper]](https://arxiv.org/pdf/1908.06066.pdf)
 
         
 ## Molecular Representation Learning
@@ -419,3 +420,4 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2021 Biorxiv] **DeepMAPS: Single-cell biological network inference using heterogeneous graph transformer** [[paper]](https://www.biorxiv.org/content/10.1101/2021.10.31.466658v2)
 1. [2022 Biorxiv] **Adaptative Machine Translation between paired Single-Cell Multi-Omics Data** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.27.428400v2)
 1. [2022 Biorxiv] **Multigrate: single-cell multi-omic data integration** [[paper]](https://www.biorxiv.org/content/10.1101/2022.03.16.484643v1.abstract)
+1. [2019 NeurIPS multi-lingual pretraining for multi-omics] **Cross-lingual Language Model Pretraining** [[Paper]](https://arxiv.org/pdf/1901.07291.pdf)
