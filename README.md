@@ -11,6 +11,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [Book](#book)
 - [Single Cell Techonoly](#single-cell-techonoly)
 - [Course](#course)
+- [Survey](#survey)
 - [Pretrained Model or LLM or Foundation Model](#pretrained-model-or-llm-or-foundation-model)
 - [GAN or Diffusion Model](#gan-or-diffusion-model)
 - [Interpretability](#interpretability)
@@ -62,6 +63,10 @@ We will try to make this list updated. If you found any error or any missed pape
     <summary>Paper</summary>
     Andrews, Tallulah S., Vladimir Yu Kiselev, Davis McCarthy, and Martin Hemberg. "Tutorial: Guidelines for the Computational Analysis of Single-Cell RNA Sequencing Data." https://doi.org/10.1038/s41596-020-00409-w Nature Protocols, December 7, 2020. 
 </details>
+
+## Survey
+1. [2023 Biophysics Reviews] **Deep learning in spatial transcriptomics: Learning from the next next-generation sequencing** [[paper]](https://pubs.aip.org/aip/bpr/article/4/1/011306/2879089/Deep-learning-in-spatial-transcriptomics-Learning)
+
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
