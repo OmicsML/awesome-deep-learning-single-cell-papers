@@ -16,6 +16,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [GAN or Diffusion Model](#gan-or-diffusion-model)
 - [Interpretability](#interpretability)
 - [Spatialtemporal Transcriptomic](#spatialtemporal-transcriptomic)
+- [RNA Velocity](#rna-velocity)
 - [Molecular Representation Learning](#molecular-representation-learning)
 - [Single Cell Perturbation or Drug Response](#single-cell-perturbation-or-drug-response)
 - [Cellular Dynamics](#cellular-dynamics)
@@ -137,7 +138,11 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2020 ICLR, image-gene expression pretraining] **VL-BERT: Pre-training of Generic Visual-Linguistic Representations** [[paper]](https://arxiv.org/pdf/1908.08530.pdf)
 1. [2019 AAAI, image-gene expression pretraining] **Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training** [[paper]](https://arxiv.org/pdf/1908.06066.pdf)
 
-        
+## RNA Velocity
+1. [2023 Nature Methods] **Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells** [[paper]](https://www.nature.com/articles/s41592-023-01994-w)
+
+
+
 ## Molecular Representation Learning
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
 
