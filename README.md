@@ -71,6 +71,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2023 bioRxiv] **GET: a foundation model of transcription across human cell types** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
 1. [2023 bioRxiv] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 1. [2023 bioRxiv] **Evaluating the Utilities of Large Language Models in Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v2)
 1. [2023 Nature Medicine] **A visual–language foundation model for pathology image analysis using medical Twitter** [[paper]](https://www.nature.com/articles/s41591-023-02504-3)
