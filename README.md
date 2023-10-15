@@ -282,6 +282,7 @@ learning on spatial transcriptomics** [[paper]](https://www.biorxiv.org/content/
 
 
 ## Gene Regulatory Network
+1. [2023 arxiv] **DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets** [[paper]](https://arxiv.org/pdf/2302.04178.pdf)
 1. [2023 Bioinformatics] **STGRNS: an interpretable transformer-based method for inferring gene regulatory networks from single-cell transcriptomic data** [[paper]](https://academic.oup.com/bioinformatics/article/39/4/btad165/7099621)
 1. [2022 Nature Machine Intelligence] **Inferring transcription factor regulatory networks from single-cell ATAC-seq data based on graph neural networks** [[paper]](https://www.nature.com/articles/s42256-022-00469-5)
 1. [2022 Nature Biotechnology] **Multi-omics single-cell data integration and regulatory inference with graph-linked embedding** [[paper]](https://www.nature.com/articles/s41587-022-01284-4.pdf)
