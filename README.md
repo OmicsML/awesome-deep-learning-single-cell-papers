@@ -82,7 +82,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2023 Nature] **Large language models encode clinical knowledge** [[paper]](https://www.nature.com/articles/s41586-023-06291-2)
 1. [2023 Nature Methods] **Towards foundation models of biological image segmentation** [[paper]](https://www.nature.com/articles/s41592-023-01885-0)
 1. [2023 bioRxiv] **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
-1. [2023 bioRxiv] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
+1. [2023 bioRxiv scTranslator] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 arxiv] **Hyena Hierarchy: Towards Larger Convolutional Language Models** [[paper]](https://arxiv.org/abs/2302.10866)
 1. [2023 bioRxiv] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.28.517803v1)
 1. [2023 bioRxiv] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v2)
