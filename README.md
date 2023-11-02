@@ -233,11 +233,13 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2019 Narure Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
 
 ## Subcellular Analysis
+1. [2023 Bioinformatics] **FISHFactor: a probabilistic factor model for spatial transcriptomics data with subcellular resolution** [[paper]](https://academic.oup.com/bioinformatics/article/39/5/btad183/7114027)
 1. [2023 Science] **Spatially resolved single-cell translatomics at molecular resolution** [[paper]](https://www.science.org/doi/10.1126/science.add3067)
 1. [2023 Nature Methods] **Subcellular omics: a new frontier pushing the limits of resolution, complexity and throughput** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049458/pdf/nihms-1881939.pdf)
 1. [2022 BioRxiv] **Bento: A toolkit for subcellular analysis of spatial transcriptomics data** [[paper]](https://www.biorxiv.org/content/10.1101/2022.06.10.495510v1)
 1. [2022 BioRxiv] **Subcellular spatially resolved gene neighborhood networks in single cells** [[paper]](https://www.biorxiv.org/content/10.1101/2022.08.03.502409v1)
 1. [2022 bioRxiv] **Statistical analysis supports pervasive RNA subcellular localization and alternative 3’ UTR regulation** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2022/10/27/2022.10.26.513902.full.pdf)
+1. [2019 Cell] **Atlas of Subcellular RNA Localization Revealed by APEX-Seq** [[paper]](https://www.sciencedirect.com/science/article/pii/S0092867419305550?via%3Dihub)
 
 
 
