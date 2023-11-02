@@ -233,6 +233,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. [2019 Narure Methods] **A test metric for assessing single-cell RNA-seq batch correction** [[paper]](https://www.nature.com/articles/s41592-018-0254-1)
 
 ## Subcellular Analysis
+1. [2023 Nature Methods] **Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape** [[paper]](https://www.nature.com/articles/s41592-023-01829-8)
+1. [2023 biorxiv] **Bering: joint cell segmentation and annotation for spatial transcriptomics with transferred graph embeddings** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.19.558548v1.full.pdf)
 1. [2023 Bioinformatics] **FISHFactor: a probabilistic factor model for spatial transcriptomics data with subcellular resolution** [[paper]](https://academic.oup.com/bioinformatics/article/39/5/btad183/7114027)
 1. [2023 Science] **Spatially resolved single-cell translatomics at molecular resolution** [[paper]](https://www.science.org/doi/10.1126/science.add3067)
 1. [2023 Nature Methods] **Subcellular omics: a new frontier pushing the limits of resolution, complexity and throughput** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10049458/pdf/nihms-1881939.pdf)
