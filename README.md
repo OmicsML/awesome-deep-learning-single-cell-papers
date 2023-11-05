@@ -7,6 +7,7 @@ This repository keeps track of the latest papers on the single cell analysis wit
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 
+## For the foundation model for single-cell, more papers are recorded [[HERE]](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers).
 
 - [Book](#book)
 - [Single Cell Techonoly](#single-cell-techonoly)
