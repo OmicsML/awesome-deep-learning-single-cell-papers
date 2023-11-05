@@ -6,7 +6,6 @@ This repository keeps track of the latest papers on single-cell analysis with de
 
 We will try to make this list updated. If you find any error or any missed paper, please don't hesitate to open an issue or pull request.
 
-<font color="red">This text is red.</font>
 ## For the foundation model for single-cell, more papers are recorded [[HERE]](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers).
 
 - [Book](#book)
