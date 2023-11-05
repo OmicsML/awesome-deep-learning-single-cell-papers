@@ -2,11 +2,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers/pulls)
 # awesome-deep-learning-single-cell-papers
 
-This repository keeps track of the latest papers on the single cell analysis with deep learning methods. We categorize them based on individual tasks.
+This repository keeps track of the latest papers on single-cell analysis with deep learning methods. We categorize them based on individual tasks.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
+We will try to make this list updated. If you find any error or any missed paper, please don't hesitate to open an issue or pull request.
 
-
+<font color="red">This text is red.</font>
 ## For the foundation model for single-cell, more papers are recorded [[HERE]](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers).
 
 - [Book](#book)
