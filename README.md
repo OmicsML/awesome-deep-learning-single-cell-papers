@@ -119,6 +119,7 @@ We will try to make this list updated. If you find any error or any missed paper
         
 
 ## Multimodal Learning
+1. [2023 arxiv multimodal] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://arxiv.org/abs/2310.02275)
 1. [2023 biorxiv multimodal] **Pathformer: biological pathway informed Transformer model integrating multi-modal data of cancer** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.23.541554v1)
 1. [2023 biorxiv Image+Gene Expression] **Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.01859.pdf)
 1. [2023 biorxiv Image+Gene Expression] **Single-cell gene expression prediction using H&E images based on spatial transcriptomics** [[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/1247105/Single-cell-gene-expression-prediction-using-HE-images-based-on/10.1117/12.2654294.full?SSO=1)
@@ -216,6 +217,7 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
+1. [2023 bioRxiv] **Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.15.564963v1)
 1. [2023 bioRxiv] **BEND: Benchmarking DNA Language Models on biologically meaningful tasks** [[paper]](https://arxiv.org/abs/2311.12570)
 1. [2023 Genome Biology] **Benchmarking algorithms for joint integration of unpaired and paired single-cell RNA-seq and ATAC-seq data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03073-x)
 1. [2023 Nature Communications] **A comprehensive benchmarking with practical guidelines for cellular deconvolution of spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41467-023-37168-7)
@@ -261,6 +263,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 
 ## Representation Learning
+1. [2023 Nature Machine Intelligence] **Reusability report: Learning the transcriptional grammar in single-cell RNA-sequencing data using transformers** [[paper]](https://www.nature.com/articles/s42256-023-00757-8)
 1. [2023 Genome Biology] **Correcting gradient-based interpretations of deep neural networks for genomics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3)
 1. [2023 Nature Methods] **SIMBA: single-cell embedding along with features** [[paper]](https://www.nature.com/articles/s41592-023-01899-8)
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.biorxiv.org/content/10.1101/2023.02.03.526939v1?rss=1)
@@ -388,6 +391,7 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution** [[paper]](https://doi.org/10.1126/science.aaw1219)
 
 ## Cell Type Annotation 
+1. [2023 Nature Methods] **Multi-layered maps of neuropil with segmentation-guided contrastive learning** [[paper]](https://www.nature.com/articles/s41592-023-02059-8) 
 1. [2023 Nature Methods] **Cue: a deep-learning framework for structural variant discovery and genotyping** [[paper]](https://pubmed.ncbi.nlm.nih.gov/36959322/) 
 1. [2023 Nature Communications] **Transformer for one stop interpretable cell type annotation** [[paper]](https://www.nature.com/articles/s41467-023-35923-4) 
 1. [2023 Nature Biotech] **TACCO unifies annotation transfer and decomposition of cell identities for single-cell and spatial omics** [[paper]](https://www.nature.com/articles/s41587-023-01657-3) 
