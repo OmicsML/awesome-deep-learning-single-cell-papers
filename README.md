@@ -138,6 +138,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 
 ## Spatialtemporal Transcriptomic
+1. [2023 biorxiv] **Gene Trajectory Inference for Single-cell Data by Optimal Transport Metrics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.08.499404v3)
 1. [2023 arxiv survey from CS field] **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook** [[paper]](https://arxiv.org/abs/2310.10196)
 1. [2023 ICML Reference from CS field] **Continuous Spatiotemporal Transformers** [[paper]](https://arxiv.org/abs/2301.13338)
 1. [2023 arxiv multimodalities Reference from CS field] **IMAGEBIND: One Embedding Space To Bind Them All** [[paper]](https://arxiv.org/pdf/2305.05665.pdf)
