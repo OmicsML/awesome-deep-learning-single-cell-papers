@@ -196,6 +196,8 @@ We will try to make this list updated. If you find any error or any missed paper
 [[Tool Summary]](https://www.scrna-tools.org/tools)
 1. [2023 Nucleic Acids Research] **DeepBIO: an automated and interpretable deep-learning platform for high-throughput biological sequence prediction, functional annotation and visualization analysis** [[paper]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad055/7041952)
 1. [2023 Github] **SpatialTis: an ultra-fast spatial analysis toolkit for large-scale spatial single-cell data.** [[github]](https://github.com/Mr-Milk/SpatialTis)
+1. [2023 biorxiv] **CellContrast: Reconstructing Spatial Relationships in Single-Cell RNA Sequencing Data via Deep Contrastive Learning** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.12.562026v1)
+
 
 ## Single Cell Atlas
 1. [2023 Nature] **A spatially resolved single-cell genomic atlas of the adult human breast** [[paper]](https://www.nature.com/articles/s41586-023-06252-9)
