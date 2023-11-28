@@ -15,6 +15,7 @@ We will try to make this list updated. If you find any error or any missed paper
 - [Pretrained Model or LLM or Foundation Model](#pretrained-model-or-llm-or-foundation-model)
 - [GAN or Diffusion Model](#gan-or-diffusion-model)
 - [Multimodal Learning](#multimodal-learning)
+- [Data Simulation](#data-simulation)
 - [Interpretability](#interpretability)
 - [Spatialtemporal Transcriptomic](#spatialtemporal-transcriptomic)
 - [RNA Velocity](#rna-velocity)
@@ -121,6 +122,11 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [2023 biorxiv multimodal] **Pathformer: biological pathway informed Transformer model integrating multi-modal data of cancer** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.23.541554v1)
 1. [2023 biorxiv Image+Gene Expression] **Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.01859.pdf)
 1. [2023 biorxiv Image+Gene Expression] **Single-cell gene expression prediction using H&E images based on spatial transcriptomics** [[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/1247105/Single-cell-gene-expression-prediction-using-HE-images-based-on/10.1117/12.2654294.full?SSO=1)
+
+## Data Simulation
+1. [2023 biorxiv] **GRouNdGAN: GRN-guided simulation of single-cell RNA-seq data using causal generative adversarial networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.25.550225v1)
+
+
 
 ## Interpretability
 1. [2021 CVPR] **Transformer Interpretability Beyond Attention Visualization** [[paper]](https://arxiv.org/abs/2012.09838)[[github]](https://github.com/hila-chefer/Transformer-Explainability)
