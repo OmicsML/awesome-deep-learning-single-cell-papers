@@ -210,6 +210,7 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
+1. [2023 bioRxiv] **BEND: Benchmarking DNA Language Models on biologically meaningful tasks** [[paper]](https://arxiv.org/abs/2311.12570)
 1. [2023 Genome Biology] **Benchmarking algorithms for joint integration of unpaired and paired single-cell RNA-seq and ATAC-seq data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03073-x)
 1. [2023 Nature Communications] **A comprehensive benchmarking with practical guidelines for cellular deconvolution of spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41467-023-37168-7)
 1. [2023 bioRxiv] **Universal preprocessing of single-cell genomics data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.14.543267v1.full.pdf)
