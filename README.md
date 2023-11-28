@@ -73,6 +73,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2023 bioRxiv] **DNABERT-2: EFFICIENT FOUNDATION MODEL AND BENCHMARK FOR MULTI-SPECIES GENOME** [[paper]](https://arxiv.org/pdf/2306.15006.pdf)
 1. [2023 bioRxiv] **The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4** [[paper]](https://arxiv.org/abs/2311.07361)
 1. [2023 bioRxiv] **Augmenting large language models with chemistry tools** [[paper]](https://arxiv.org/pdf/2304.05376.pdf)
 1. [2023 bioRxiv] **GET: a foundation model of transcription across human cell types** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
