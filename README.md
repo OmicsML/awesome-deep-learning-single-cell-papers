@@ -121,6 +121,7 @@ We will try to make this list updated. If you find any error or any missed paper
         
 
 ## Multimodal Learning
+1. [2023 arxiv Image+Gene Expression] **Transformer with Convolution and Graph-Node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image** [[paper]]([https://arxiv.org/abs/2310.02275](https://www.biorxiv.org/content/10.1101/2023.05.28.542669v1))
 1. [2023 arxiv multimodal] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://arxiv.org/abs/2310.02275)
 1. [2023 biorxiv multimodal] **Pathformer: biological pathway informed Transformer model integrating multi-modal data of cancer** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.23.541554v1)
 1. [2023 biorxiv Image+Gene Expression] **Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.01859.pdf)
