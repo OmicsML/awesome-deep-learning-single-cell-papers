@@ -139,6 +139,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 
 ## Spatialtemporal Transcriptomic
+1. [2023 biorxiv] **Uncovering developmental time and tempo using deep learning** [[paper]](https://www.nature.com/articles/s41592-023-02083-8)
 1. [2023 biorxiv] **scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.22.568346v1.full.pdf)
 1. [2023 biorxiv] **Gene Trajectory Inference for Single-cell Data by Optimal Transport Metrics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.08.499404v3)
 1. [2023 arxiv survey from CS field] **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook** [[paper]](https://arxiv.org/abs/2310.10196)
@@ -204,6 +205,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 
 ## Single Cell Atlas
+1. [2023 Nature] **A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain** [[paper]](https://www.nature.com/articles/s41586-023-06812-z)
 1. [2023 Nature] **A spatially resolved single-cell genomic atlas of the adult human breast** [[paper]](https://www.nature.com/articles/s41586-023-06252-9)
 1. [2023 Nature Medicine] **An integrated cell atlas of the lung in health and disease** [[paper]](https://www.nature.com/articles/s41591-023-02327-2)
 1. [2022 Nucleic Acids Research] **Aquila: a spatial omics database and analysis platform** [[paper]](https://academic.oup.com/nar/article/51/D1/D827/6761736)
@@ -225,6 +227,7 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
+1. [2023 bioRxiv] **Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.570603v1)
 1. [2023 bioRxiv] **Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.15.564963v1)
 1. [2023 bioRxiv] **BEND: Benchmarking DNA Language Models on biologically meaningful tasks** [[paper]](https://arxiv.org/abs/2311.12570)
 1. [2023 Genome Biology] **Benchmarking algorithms for joint integration of unpaired and paired single-cell RNA-seq and ATAC-seq data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03073-x)
