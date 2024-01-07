@@ -171,7 +171,7 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
 
 ## Single Cell Perturbation or Drug Response
-1. [2023 biorxiv] **Unagi: Deep Generative Model for Deciphering Cellular Dynamics and In-Silico Drug Discovery in Complex Diseases** [[paper]](https://www.researchgate.net/publication/376602875_Unagi_Deep_Generative_Model_for_Deciphering_Cellular_Dynamics_and_In-Silico_Drug_Discovery_in_Complex_Diseases)
+1. [2023 biorxiv] **Unagi: Deep Generative Model for Deciphering Cellular Dynamics and In-Silico Drug Discovery in Complex Diseases** [[paper]](https://assets.researchsquare.com/files/rs-3676579/v1_covered_2dc4a452-a1f2-47a2-acb1-f816276a9e07.pdf?c=1702865288)
 1. [2023 NeurIPS] **Modelling Cellular Perturbations with the Sparse Additive Mechanism Shift Variational Autoencoder** [[paper]](https://openreview.net/forum?id=DzaCE00jGV)
 1. [2023 Nature Methods] **Learning single-cell perturbation responses using neural optimal transport** [[paper]](https://www.nature.com/articles/s41592-023-01969-x)
 1. [2023 Nature Methods] **Neural optimal transport predicts perturbation responses at the single-cell level** [[paper]](https://www.nature.com/articles/s41592-023-01968-y)
