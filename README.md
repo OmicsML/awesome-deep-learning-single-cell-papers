@@ -113,6 +113,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 ## GAN or Diffusion Model
 1. [2024 Cell] **A programmable reaction-diffusion system for spatiotemporal cell signaling circuit design** [[paper]](https://www.cell.com/cell/pdf/S0092-8674(23)01339-9.pdf)
+1. [2023 biorxiv] **From Noise to Knowledge: Probabilistic Diffusion-Based Neural Inference of Gene Regulatory Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.05.565675v1)
 1. [2023 biorxiv Diffusion] **A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models** [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7lwkXGEAAAAJ&citation_for_view=7lwkXGEAAAAJ:Se3iqnhoufwC)
 1. [2023 biorxiv GAN] **Predicting cell morphological responses to perturbations using generative modeling** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.17.549216v1)
 1. [2023 Nature Diffusion Model] **AI tools are designing entirely new proteins that could transform medicine** [[paper]](https://www.nature.com/articles/d41586-023-02227-y)
