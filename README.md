@@ -458,6 +458,7 @@ NOTE: annotated reference cell graph + query cell graph
 --->
 
 ## Disease Prediction
+1. [2024 Nature Biotechnology] **Can single-cell biology realize the promise of precision medicine?** [[paper]](https://www.nature.com/articles/s41587-024-02138-x)
 1. [2018 IJCAI] **Hybrid Approach of Relation Network and Localized Graph Convolutional Filtering for Breast Cancer Subtype Classification** [[paper]](https://www.ijcai.org/Proceedings/2018/490)
 1. [2021 NPJ Digital Medicine] **DeePaN - A deep patient graph convolutional network integratingclinico-genomic evidence to stratify lung cancers benefiting from immunotherapy** [[paper]](https://www.nature.com/articles/s41746-021-00381-z)
 1. [2022 Biocumputing] **CloudPred: Predicting Patient Phenotypes From Single-cell RNA-seq** [[paper]](https://www.worldscientific.com/doi/abs/10.1142/9789811250477_0031)
