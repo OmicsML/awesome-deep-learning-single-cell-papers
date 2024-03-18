@@ -313,6 +313,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 
 ## Cell-Cell Communication Events
+1. [2024 bioRxiv] **Large-scale characterization of cell niches in spatial atlases using bio-inspired graph learning** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.21.581428v2.full.pdf)
 1. [2024 Pac Symp Biocomput] **PEPSI: Polarity measurements from spatial proteomics imaging suggest immune cell engagement** [[paper]](https://pubmed.ncbi.nlm.nih.gov/38160302/)
 1. [2023 Cell Systems] **Single-cell A/B testing for cell-cell communication** [[paper]](https://www.sciencedirect.com/science/article/pii/S2405471223001503)
 1. [2023 Nature Biotechnology] **Inferring cell–cell communication at single-cell resolution** [[paper]](https://www.nature.com/articles/s41587-023-01834-4)
