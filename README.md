@@ -73,6 +73,8 @@ We will try to make this list updated. If you find any error or any missed paper
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2024 Nature Medicine FM4Pathology] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3)
+1. [2024 Nature Medicine FM4Pathology] **A visual-language foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02856-4)
 1. [2024 ICLR] **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs** [[paper]](https://openreview.net/forum?id=jJCeMiwHdH)
 1. [2023 bioRxiv] **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
 1. [2023 bioRxiv] **DNABERT-2: EFFICIENT FOUNDATION MODEL AND BENCHMARK FOR MULTI-SPECIES GENOME** [[paper]](https://arxiv.org/pdf/2306.15006.pdf)
