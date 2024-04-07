@@ -128,6 +128,7 @@ We will try to make this list updated. If you find any error or any missed paper
         
 
 ## Multimodal Learning
+1. [2024 ICLR workshop NLP+Gene Expression] **Joint Embedding of Transcriptomes and Text Enables Interactive Single-Cell RNA-seq Data Exploration via Natural Language** [[paper]](https://openreview.net/forum?id=yWiZaE4k3K)
 1. [2024 Nature Biotechnology Image+Gene Expression] **Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology** [[paper]](https://www.nature.com/articles/s41587-023-02019-9#citeas)
 1. [2023 arxiv Image+Gene Expression] **Transformer with Convolution and Graph-Node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.28.542669v1)
 1. [2023 arxiv multimodal] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://arxiv.org/abs/2310.02275)
