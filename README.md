@@ -89,7 +89,6 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [2023 Nature] **Large language models encode clinical knowledge** [[paper]](https://www.nature.com/articles/s41586-023-06291-2)
 1. [2023 Nature Methods] **Towards foundation models of biological image segmentation** [[paper]](https://www.nature.com/articles/s41592-023-01885-0)
 1. [2023 bioRxiv] **DrugGPT: A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins** [[paper]](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1)
-1. [2023 bioRxiv scTranslator] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 arxiv] **Hyena Hierarchy: Towards Larger Convolutional Language Models** [[paper]](https://arxiv.org/abs/2302.10866)
 1. [2023 bioRxiv] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.28.517803v1)
 1. [2023 bioRxiv] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v2)
@@ -508,6 +507,7 @@ NOTE: annotated reference cell graph + query cell graph
 
 ## Multiomics Translation
 1. [2024 Nature Communications] **scButterfly: a versatile single-cell cross-modality translation method via dual-aligned variational autoencoders** [[paper]](https://www.nature.com/articles/s41467-024-47418-x)
+1. [2023 bioRxiv scTranslator] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2022 JCB] **Multimodal Single-Cell Translation and Alignment with Semi-Supervised Learning** [[paper]](https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0264)
 1. [2022 RECOMB] **Semi-supervised Single-Cell Cross-modality Translation Using Polarbear** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-04749-7_2)
 1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
