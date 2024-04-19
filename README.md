@@ -44,7 +44,7 @@ We will try to make this list updated. If you find any error or any missed paper
 - [Cell Clustering](#cell-clustering)
 - [Disease Prediction](#disease-prediction)
 - [Multimodal Integration](#multimodal-integration)
-
+- [Multiomics Translation](#multiomics-translation)
 
 ## Book
 1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html), Fabian Theis's Lab
@@ -490,7 +490,6 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2019 PLoS computational biology] **Building gene regulatory networks from scATAC-seq and scRNA-seq using linked self organizing maps** [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006555)
 1. [2020 Bioinformatics] **SCIM: universal single-cell matching with unpaired feature sets** [[paper]](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i919/6055906)
 1. [2021 Nature communications] **Multi-domain translation between single-cell imaging and sequencing data using autoencoders** [[paper]](https://www.nature.com/articles/s41467-020-20249-2)
-1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
 1. [2021 PLoS Computational Biology] **Imputation of spatially-resolved transcriptomes by graph-regularized tensor completion** [[paper]](https://pubmed.ncbi.nlm.nih.gov/33826608/)
 1. [2021 Genome biology] **Cobolt: integrative analysis of multimodal single-cell sequencing data** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02556-z)
 1. [2021 Cell reports methods] **A mixture-of-experts deep generative model for integrated analysis of single-cell multiomics data** [[paper]](https://www.sciencedirect.com/science/article/pii/S2667237521001235)
@@ -505,3 +504,10 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 Biorxiv] **Adaptative Machine Translation between paired Single-Cell Multi-Omics Data** [[paper]](https://www.biorxiv.org/content/10.1101/2021.01.27.428400v2)
 1. [2022 Biorxiv] **Multigrate: single-cell multi-omic data integration** [[paper]](https://www.biorxiv.org/content/10.1101/2022.03.16.484643v1.abstract)
 1. [2019 NeurIPS multi-lingual pretraining for multi-omics] **Cross-lingual Language Model Pretraining** [[Paper]](https://arxiv.org/pdf/1901.07291.pdf)
+
+
+## Multiomics Translation
+1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
+
+
+
