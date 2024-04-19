@@ -204,8 +204,8 @@ We will try to make this list updated. If you find any error or any missed paper
         
         
 
-
 ## Single Cell Application
+1. [2023 medrxiv] **Single-cell RNA sequencing of human tissue supports successful drug targets** [[paper]](https://www.medrxiv.org/content/10.1101/2024.04.04.24305313v1)
 1. [2023 Nature Methods] **Machine learning in rare disease** [[paper]](https://www.nature.com/articles/s41592-023-01886-z)
 1. [2023 Molecular System Biology] **Single-cell biology: what does the future hold?** [[paper]](https://www.embopress.org/doi/full/10.15252/msb.202311799)
 1. [2023 Genes] **Single-Cell Analysis in the Omics Era: Technologies and Applications in Cancer** [[paper]](https://www.mdpi.com/2073-4425/14/7/1330)
