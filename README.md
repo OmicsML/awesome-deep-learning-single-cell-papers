@@ -149,6 +149,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 
 ## Spatialtemporal Transcriptomic
+1. [2024 biorxiv] **Gene Trajectory Inference for Single-cell Data by Optimal Transport Metrics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.08.499404v3)
 1. [2023 biorxiv] **Uncovering developmental time and tempo using deep learning** [[paper]](https://www.nature.com/articles/s41592-023-02083-8)
 1. [2023 biorxiv] **scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.22.568346v1.full.pdf)
 1. [2023 biorxiv] **Gene Trajectory Inference for Single-cell Data by Optimal Transport Metrics** [[paper]](https://www.biorxiv.org/content/10.1101/2022.07.08.499404v3)
