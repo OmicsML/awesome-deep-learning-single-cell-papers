@@ -508,6 +508,8 @@ NOTE: annotated reference cell graph + query cell graph
 
 ## Multiomics Translation
 1. [2024 Nature Communications] **scButterfly: a versatile single-cell cross-modality translation method via dual-aligned variational autoencoders** [[paper]](https://www.nature.com/articles/s41467-024-47418-x)
+1. [2022 JCB] **Multimodal Single-Cell Translation and Alignment with Semi-Supervised Learning** [[paper]](https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0264)
+1. [2022 RECOMB] **Semi-supervised Single-Cell Cross-modality Translation Using Polarbear** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-04749-7_2)
 1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
 
 
