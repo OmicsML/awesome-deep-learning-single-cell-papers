@@ -507,8 +507,6 @@ NOTE: annotated reference cell graph + query cell graph
 
 ## Multiomics Translation
 1. [2024 Nature Communications] **scButterfly: a versatile single-cell cross-modality translation method via dual-aligned variational autoencoders** [[paper]](https://www.nature.com/articles/s41467-024-47418-x)
-
-Efficient Generation of Paired Single-Cell Multiomics Profiles by Deep Learning
 1. [2023 bioRxiv scTranslator] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 Advanced Science] **Efficient Generation of Paired Single-Cell Multiomics Profiles by Deep Learning** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301169)
 1. [2022 JCB] **Multimodal Single-Cell Translation and Alignment with Semi-Supervised Learning** [[paper]](https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0264)
