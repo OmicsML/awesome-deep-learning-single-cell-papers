@@ -240,6 +240,7 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
+1. [2023 biorxiv] **Benchmarking the translational potential of spatial gene expression prediction from histology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.12.571251v1)
 1. [2023 bioRxiv] **Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.570603v1)
 1. [2023 bioRxiv] **Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.15.564963v1)
 1. [2023 bioRxiv] **BEND: Benchmarking DNA Language Models on biologically meaningful tasks** [[paper]](https://arxiv.org/abs/2311.12570)
