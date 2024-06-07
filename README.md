@@ -112,6 +112,7 @@ We will try to make this list updated. If you find any error or any missed paper
 1. [2021 Arxiv, 1111 citations] **Don't Stop Pretraining: Adapt Language Models to Domains and Tasks** [[paper]](https://arxiv.org/pdf/2004.10964.pdf)
 
 ## GAN or Diffusion Model
+1. [2024 biorxiv] **scDiffEq: drift-diffusion modeling of single-cell dynamics with neural stochastic differential equations** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.06.570508v1)
 1. [2024 biorxiv] **scDiffusion: conditional generation of high-quality single-cell data using diffusion model** [[paper]](https://arxiv.org/abs/2401.03968)
 1. [2024 biorxiv] **In Silico Generation of Gene Expression profiles using Diffusion Models** [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.10.588825v1)
 1. [2024 Cell] **A programmable reaction-diffusion system for spatiotemporal cell signaling circuit design** [[paper]](https://www.cell.com/cell/pdf/S0092-8674(23)01339-9.pdf)
