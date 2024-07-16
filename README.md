@@ -6,6 +6,21 @@ This repository keeps track of the latest papers on single-cell analysis with de
 
 We will try to make this list updated. If you find any error or any missed paper, please don't hesitate to open an issue or pull request.
 
+## Citation
+
+Be free to refer to our comprehensive survey paper of Deep learning in single-cell analysis:
+
+```bibtex
+@article{molho2022deep,
+  title={Deep learning in single-cell analysis},
+  author={Molho, Dylan and Ding, Jiayuan and Tang, Wenzhuo and Li, Zhaoheng and Wen, Hongzhi and Wang, Yixin and Venegas, Julian and Jin, Wei and Liu, Renming and Su, Runze and others},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  year={2022},
+  publisher={ACM New York, NY}
+}
+```
+
+
 ## For the foundation model for single-cell, more papers are recorded [[HERE]](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers).
 
 - [Book](#book)
