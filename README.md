@@ -8,7 +8,7 @@ We will try to make this list updated. If you find any error or any missed paper
 
 ## Citation
 
-Be free to refer to our comprehensive survey paper of Deep learning in single-cell analysis:
+Be free to refer to our comprehensive survey paper on Deep Learning in Single-cell Analysis:
 
 ```bibtex
 @article{molho2022deep,
