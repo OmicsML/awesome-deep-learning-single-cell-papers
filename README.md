@@ -91,6 +91,7 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 
 ## Pretrained Model or LLM or Foundation Model
 **Refer more details to** [[foundation-model-single-cell-papers]](https://github.com/OmicsML/foundation-model-single-cell-papers)
+1. [2024 BioRxiv] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)]
 1. [2024 ICLR] **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs** [[paper]](https://openreview.net/forum?id=jJCeMiwHdH)
 1. [2023 bioRxiv] **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
 1. [2023 bioRxiv] **DNABERT-2: EFFICIENT FOUNDATION MODEL AND BENCHMARK FOR MULTI-SPECIES GENOME** [[paper]](https://arxiv.org/pdf/2306.15006.pdf)
