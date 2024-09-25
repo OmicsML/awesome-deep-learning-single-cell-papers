@@ -340,6 +340,7 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 
 
 ## Cell-Cell Communication Events
+1. [2024 Nature Methods] **Unsupervised and supervised discovery of tissue cellular neighborhoods from cell phenotypes** [[paper]](https://www.nature.com/articles/s41592-023-02124-2)
 1. [2024 Nature Reviews Genetics] **The diversification of methods for studying cell–cell interactions and communication** [[paper]](https://www.nature.com/articles/s41576-023-00685-8)
 1. [2024 bioRxiv] **Large-scale characterization of cell niches in spatial atlases using bio-inspired graph learning** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.21.581428v2.full.pdf)
 1. [2024 Pac Symp Biocomput] **PEPSI: Polarity measurements from spatial proteomics imaging suggest immune cell engagement** [[paper]](https://pubmed.ncbi.nlm.nih.gov/38160302/)
