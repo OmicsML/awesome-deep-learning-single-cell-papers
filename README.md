@@ -497,6 +497,7 @@ NOTE: annotated reference cell graph + query cell graph
 1. [2022 CHIL '20: Proceedings of the ACM Conference on Health, Inference, and Learning] **Disease state prediction from single-cell data using graph attention networks** [[paper]](https://dl.acm.org/doi/10.1145/3368555.3384449)
 
 ## Multimodal Integration
+1. [2024 Nature Methods] **Search and match across spatial omics samples at single-cell resolution** [[Paper]](https://www.nature.com/articles/s41592-024-02410-7)
 1. [2023 Nature Biotechnology] **Integration of spatial and single-cell data across modalities with weakly linked features** [[Paper]](https://www.nature.com/articles/s41587-023-01935-0)
 1. [2023 Nature Communications] **scDREAMER for atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier** [[Paper]](https://www.nature.com/articles/s41467-023-43590-8)
 1. [2023 biorxiv] **Automated single-cell omics end-to-end framework with data-driven batch inference** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.11.01.564815v1)
