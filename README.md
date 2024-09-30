@@ -530,9 +530,11 @@ NOTE: annotated reference cell graph + query cell graph
 
 ## Multiomics Translation
 1. [2024 Nature Communications] **scButterfly: a versatile single-cell cross-modality translation method via dual-aligned variational autoencoders** [[paper]](https://www.nature.com/articles/s41467-024-47418-x)
+1. [2023 arxiv scHyena] **scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** [[paper]](https://arxiv.org/abs/2310.02713)
 1. [2023 bioRxiv scTranslator] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 Advanced Science] **Efficient Generation of Paired Single-Cell Multiomics Profiles by Deep Learning** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301169)
 1. [2022 JCB] **Multimodal Single-Cell Translation and Alignment with Semi-Supervised Learning** [[paper]](https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0264)
+1. [2022 Nature Machine Intelligence sciPENN] **A multi-use deep learning method for CITE-seq and single-cell RNA-seq data integration with cell surface protein prediction and imputation** [[paper]](https://www.nature.com/articles/s42256-022-00545-w)
 1. [2022 RECOMB] **Semi-supervised Single-Cell Cross-modality Translation Using Polarbear** [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-04749-7_2)
 1. [2020 PNAS] **BABEL enables cross-modality translation between multiomic profiles at single-cell resolution** [[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2023070118)
 
