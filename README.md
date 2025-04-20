@@ -197,7 +197,8 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 1. [2023 ICLR] **Uni-Mol: A Universal 3D Molecular Representation Learning Framework** [[paper]](https://openreview.net/forum?id=6K2RM6wVqKu)
 
 ## Single Cell Perturbation or Drug Response
-1. [2024 biorxiv] **Deep learning-based predictions of gene perturbation effects do not yet outperform simple linear methods** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/09/21/2024.09.16.613342.full.pdf)
+1. [2024 NeurIPS AIDrugX (Spotlight)] **Signals in the Cells: Multimodal and Contextualized Machine Learning Foundations for Therapeutics** [[paper]](https://openreview.net/forum?id=kL8dlYp6IM) [[poster]](https://drive.google.com/file/d/1plypydZCaegbgxyCl-xehFxSgwX6e8So/view)
+2. [2024 biorxiv] **Deep learning-based predictions of gene perturbation effects do not yet outperform simple linear methods** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/09/21/2024.09.16.613342.full.pdf)
 1. [2024 ICLR] **Biologically Interpretable VAE with Supervision for Transcriptomics Data Under Ordinal Perturbations** [[paper]](https://www.nature.com/articles/s41592-023-02144-y)
 1. [2024 Nature Methods] **scPerturb: harmonized single-cell perturbation data** [[paper]](https://www.nature.com/articles/s41592-023-02144-y)
 1. [2023 biorxiv] **Unagi: Deep Generative Model for Deciphering Cellular Dynamics and In-Silico Drug Discovery in Complex Diseases** [[paper]](https://assets.researchsquare.com/files/rs-3676579/v1_covered_2dc4a452-a1f2-47a2-acb1-f816276a9e07.pdf?c=1702865288)
@@ -262,7 +263,8 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 1. [[Loopy Browser]](https://loopybrowser.com/)
 
 ## Benchmarking
-1. [2023 biorxiv] **Benchmarking the translational potential of spatial gene expression prediction from histology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.12.571251v1)
+1. [2024 MoML@Mila] **** [[CMT submission]](https://cmt3.research.microsoft.com/MoML2024/Submission/Summary/13) [[preprint]](https://www.biorxiv.org/content/10.1101/2024.06.12.598655v2) [[poster]](https://drive.google.com/file/d/1LYdITeFY5iX07zyXPGVEjMpYjuHMrneS/view) [[conference]](https://portal.ml4dd.com/moml-2024)
+2. [2023 biorxiv] **Benchmarking the translational potential of spatial gene expression prediction from histology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.12.571251v1)
 1. [2023 bioRxiv] **Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.570603v1)
 1. [2023 bioRxiv] **Benchmarking multi-omics integration algorithms across single-cell RNA and ATAC data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.15.564963v1)
 1. [2023 bioRxiv] **BEND: Benchmarking DNA Language Models on biologically meaningful tasks** [[paper]](https://arxiv.org/abs/2311.12570)
