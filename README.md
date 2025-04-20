@@ -27,13 +27,13 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 ## For the foundation model for single-cell, more papers are recorded [[HERE]](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers).
 
 - [Book](#book)
-- [Single Cell Techonoly](#single-cell-techonoly)
+- [Single Cell Technology](#single-cell-techonoly)
 - [Course](#course)
 - [Survey](#survey)
 - [Pretrained Model or LLM or Foundation Model](#pretrained-model-or-llm-or-foundation-model)
 - [GAN or Diffusion Model](#gan-or-diffusion-model)
 - [Multimodal Learning](#multimodal-learning)
-- [Data Simulation](#data-simulation)
+- [Single Cell Data Simulation](#single-cell-data-simulation)
 - [Interpretability](#interpretability)
 - [Spatialtemporal Transcriptomic](#spatialtemporal-transcriptomic)
 - [RNA Velocity](#rna-velocity)
@@ -68,7 +68,7 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 1. [[Single Cell Best Practices]](https://www.sc-best-practices.org/preamble.html), Fabian Theis's Lab
 1. [[Basics of Single-Cell Analysis with Bioconductor]](http://bioconductor.org/books/3.15/OSCA.basic/index.html), Bioconductor software based on R
 
-## Single Cell Techonoly
+## Single Cell Technology
 ### Single-Modality
 
 ### Multimodality
@@ -155,7 +155,7 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 1. [2023 biorxiv Image+Gene Expression] **Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.01859.pdf)
 1. [2023 biorxiv Image+Gene Expression] **Single-cell gene expression prediction using H&E images based on spatial transcriptomics** [[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/1247105/Single-cell-gene-expression-prediction-using-HE-images-based-on/10.1117/12.2654294.full?SSO=1)
 
-## Data Simulation
+## Single Cell Data Simulation
 1. [2025 NM] **scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions** [[paper]](https://www.nature.com/articles/s41592-025-02651-0)
 1. [2023 biorxiv] **GRouNdGAN: GRN-guided simulation of single-cell RNA-seq data using causal generative adversarial networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.25.550225v1)
 
