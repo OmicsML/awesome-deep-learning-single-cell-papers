@@ -319,6 +319,7 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 
 
 ## Representation Learning
+1. [2025 arxiv] **SUICA: Learning Super-high Dimensional Sparse Implicit Neural Representations for Spatial Transcriptomics** [[paper]](https://arxiv.org/abs/2412.01124)
 1. [2023 Nature Machine Intelligence] **Reusability report: Learning the transcriptional grammar in single-cell RNA-sequencing data using transformers** [[paper]](https://www.nature.com/articles/s42256-023-00757-8)
 1. [2023 Genome Biology] **Correcting gradient-based interpretations of deep neural networks for genomics** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02956-3)
 1. [2023 Nature Methods] **SIMBA: single-cell embedding along with features** [[paper]](https://www.nature.com/articles/s41592-023-01899-8)
