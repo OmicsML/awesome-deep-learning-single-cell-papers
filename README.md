@@ -156,6 +156,7 @@ Be free to refer to our comprehensive survey paper on Deep Learning in Single-ce
 1. [2023 biorxiv Image+Gene Expression] **Single-cell gene expression prediction using H&E images based on spatial transcriptomics** [[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/1247105/Single-cell-gene-expression-prediction-using-HE-images-based-on/10.1117/12.2654294.full?SSO=1)
 
 ## Data Simulation
+1. [2025 NM] **scMultiSim: simulation of single-cell multi-omics and spatial data guided by gene regulatory networks and cell–cell interactions** [[paper]](https://www.nature.com/articles/s41592-025-02651-0)
 1. [2023 biorxiv] **GRouNdGAN: GRN-guided simulation of single-cell RNA-seq data using causal generative adversarial networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.25.550225v1)
 
 
