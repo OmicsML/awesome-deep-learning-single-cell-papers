@@ -453,6 +453,8 @@ contrastive fine-tuning** [[paper]](https://www.biorxiv.org/content/10.1101/2021
 1. [2019 Science] **Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution** [[paper]](https://doi.org/10.1126/science.aaw1219)
 
 ## Cell Type Annotation 
+
+1. [2025 BioRxiv] **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2) [[code]](https://github.com/ElliotXie/CASSIA/tree/main)
 1. [2025 BioRxiv] **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1) [[code]](https://github.com/cafferychen777/mLLMCelltype)
 1. [2023 biorxiv] **Scaling cross-tissue single-cell annotation models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.07.561331v1.full.pdf) 
 1. [2023 Nature Methods] **Multi-layered maps of neuropil with segmentation-guided contrastive learning** [[paper]](https://www.nature.com/articles/s41592-023-02059-8) 
